@@ -13,6 +13,7 @@ Here is example code for doing this using a path model with skewed observed vari
 TITLE:	Interaction Plot; 
 
 DATA:	FILE IS data.csv; ! Load data
+
 VARIABLE:	
   NAMES ARE
     id pred mod out; ! Name variables in dataset
