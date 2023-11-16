@@ -8,7 +8,7 @@ This vignette is to help those who:
 
 Here is example code for doing this using a path model with skewed observed variables and missing data. This can be adapted to other analyses/models as well, see latent variable example [here](https://www.statmodel.com/download/Latent%20variable%20interaction%20LOOP%20plot.pdf).
 
-```diff
+```mplus
 
 TITLE:	Interaction Plot; 
 
@@ -63,10 +63,37 @@ Running this code should automatically create a .gh5 file in the folder your cod
 
 ## Step 3: Plot your graph
 
+Use the "mplus.plot.loop" function to create your graph: provide the .gh5 file created from Mplus and the names of the plot lines you created for low and high moderation values.
 
-```ruby
+```r
 mplus.plot.loop('/Location/filename.gh5', 
                 c("lowmod", "highmod")
 )
 ```
-![alt text](https://github.com/erinnacland/[reponame]/blob/[branch]/image.jpg?raw=true)
+This should spit out a graph that looks like this:
+
+![Rplot05](https://github.com/erinnacland/erinnacland.github.io/assets/149115997/3ed5ecd7-52ff-42b7-94f2-f078e540f5a8)
+
+## Step 4: Customize your graph
+
+```r
+mplus.plot.loop('/Users/Location/filename.gh5', 
+                c("lowmod", "highmod"),
+		title = "Polygenic-Environment Interaction", # Plot title
+                ylab = "Social Aggression", # y-axis label
+		xlab = "Harsh Parenting", # x-axis label
+    		lwid = 4, # Regression lines width
+                leg.txt = c("Low genetic risk (-1 SD)","High genetic risk (+1 SD)"), # Legend caption labels
+		leg.loc="topright", # Location of the legend
+                leg.cex = .8, # Size of legend text
+		leg.b.col = "lightgray", # Colour of legend box outline
+                ylim = c(-1,1), # y-axis value limits
+                linecolors = c("cornflowerblue","coral2"), # Color of regression lines
+		showgrid = F, # Show grid lines (T or F) 
+  		linetype = c("dashed","dashed") # line type for confidence interval lines (“blank”, “solid”, “dashed”,“dotted”, “dotdash”, “longdash”, “twodash”) 
+                )
+```
+
+These specifications should spit out a plot that looks like this:
+
+![Rplot08](https://github.com/erinnacland/erinnacland.github.io/assets/149115997/56f8f51b-7414-4b6f-8ecf-c2f3b0302869)
