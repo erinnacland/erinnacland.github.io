@@ -96,4 +96,4 @@ mplus.plot.loop('/Users/Location/filename.gh5',
 
 These specifications should spit out a plot that looks like this:
 
-![Rplot08](https://github.com/erinnacland/erinnacland.github.io/assets/149115997/56f8f51b-7414-4b6f-8ecf-c2f3b0302869)
+![Rplot09](https://github.com/erinnacland/erinnacland.github.io/assets/149115997/4599b042-9973-42d2-9512-155b16803c07)
