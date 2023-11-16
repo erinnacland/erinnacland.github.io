@@ -6,7 +6,7 @@ This vignette is to help those who:
 
 ## Step 1: Create an interaction plot file in Mplus 
 
-Here is example code for doing this using a path model with skewed observed variables and missing data (i.e., leading to the use of the mlr estimator). This can be adapted to other analyses/models as well, see latent variable example [here](https://www.statmodel.com/download/Latent%20variable%20interaction%20LOOP%20plot.pdf).
+Here is example code for doing this using a path model with skewed observed variables and missing data. This can be adapted to other analyses/models as well, see latent variable example [here](https://www.statmodel.com/download/Latent%20variable%20interaction%20LOOP%20plot.pdf).
 
 ```diff
 
@@ -54,3 +54,19 @@ PLOT: TYPE IS PLOT2;
 ```
 Running this code should automatically create a .gh5 file in the folder your code is saved.
 
+## Step 2: Load source code file into R
+
+- Download this file from Mplus I've edited to allow more plot customizations: mplus2023.r
+- Open R
+- In the "Code" dropdown menu from the toolbar, select "Source File..."
+- Choose the mplus2023.r file
+
+## Step 3: Plot your graph
+
+
+```ruby
+mplus.plot.loop('/Location/filename.gh5', 
+                c("lowmod", "highmod")
+)
+```
+![alt text](https://github.com/erinnacland/[reponame]/blob/[branch]/image.jpg?raw=true)
