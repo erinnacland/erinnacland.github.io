@@ -94,6 +94,6 @@ mplus.plot.loop('/Users/Location/filename.gh5',
                 )
 ```
 
-These specifications should spit out a plot that looks like this:
+These specifications should create a plot that looks like this:
 
 ![Rplot09](https://github.com/erinnacland/erinnacland.github.io/assets/149115997/4599b042-9973-42d2-9512-155b16803c07)
