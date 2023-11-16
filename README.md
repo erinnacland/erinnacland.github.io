@@ -56,7 +56,7 @@ Running this code should automatically create a .gh5 file in the folder your cod
 
 ## Step 2: Load source code file into R
 
-- Download this file from Mplus I've edited to allow more plot customizations: [mplus2023.r](https://github.com/erinnacland/erinnacland.github.io/blob/main/mplus2023.r)
+- Download this file from Mplus I've edited to allow more plot customizations: [mplus2023.r](https://github.com/erinnacland/erinnacland.github.io/blob/main/mplus2023.r) (download button is in top right corner)
 - Open R
 - In the "Code" dropdown menu from the toolbar, select "Source File..."
 - Choose the mplus2023.r file
