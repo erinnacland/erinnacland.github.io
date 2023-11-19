@@ -72,7 +72,7 @@ mplus.plot.loop('/Location/filename.gh5',
 ```
 This should spit out a graph that looks like this:
 
-![Rplot05](https://github.com/erinnacland/erinnacland.github.io/assets/149115997/3ed5ecd7-52ff-42b7-94f2-f078e540f5a8)
+![Rplot05](./imgs/Rplot05.png)
 
 ## Step 4: Customize your graph
 
