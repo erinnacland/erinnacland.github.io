@@ -96,4 +96,4 @@ mplus.plot.loop('/Users/Location/filename.gh5',
 
 These specifications should create a plot that looks like this:
 
-![Rplot09]("./imgs/Rplot09.png")
+![Rplot09](./imgs/Rplot09.png)
