@@ -66,8 +66,8 @@ Running this code should automatically create a .gh5 file in the folder your cod
 Use the "mplus.plot.loop" function to create your graph: provide the .gh5 file created from Mplus and the names of the plot lines you created for low and high moderation values.
 
 ```r
-mplus.plot.loop('/Location/filename.gh5', 
-                c("lowmod", "highmod")
+mplus.plot.loop('/Location/filename.gh5',
+	c("lowmod", "highmod")
 )
 ```
 This should spit out a graph that looks like this:
