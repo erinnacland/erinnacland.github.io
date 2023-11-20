@@ -1,5 +1,4 @@
-Author: Erinn Acland
-Date: November 20, 2023
+*Author:* Erinn Acland
 
 This vignette is to help those who: 
   1. Use a Mac so they cannot create an interaction plot using Mplus, and
