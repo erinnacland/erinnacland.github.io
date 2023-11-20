@@ -65,7 +65,7 @@ Running this code should automatically create a .gh5 file in the folder your cod
 
 Use the "mplus.plot.loop" function to create your graph: provide the .gh5 file created from Mplus and the names of the plot lines you created for low and high moderation values.
 
-```r
+```
 mplus.plot.loop('/Location/filename.gh5',
 	c("lowmod", "highmod")
 )
@@ -78,19 +78,19 @@ This should spit out a graph that looks like this:
 
 ```
 mplus.plot.loop('/Users/Location/filename.gh5', 
-                c("lowmod", "highmod"),
+		c("lowmod", "highmod"),
 		title = "Polygenic-Environment Interaction", # Plot title
-                ylab = "Social Aggression", # y-axis label
+		ylab = "Social Aggression", # y-axis label
 		xlab = "Harsh Parenting", # x-axis label
-    		lwid = 4, # Regression lines width
-                leg.txt = c("Low genetic risk (-1 SD)","High genetic risk (+1 SD)"), # Legend caption labels
+		lwid = 4, # Regression lines width
+		leg.txt = c("Low genetic risk (-1 SD)","High genetic risk (+1 SD)"), # Legend caption labels
 		leg.loc="topright", # Location of the legend
-                leg.cex = .8, # Size of legend text
+		leg.cex = .8, # Size of legend text
 		leg.b.col = "lightgray", # Colour of legend box outline
-                ylim = c(-1,1), # y-axis value limits
-                linecolors = c("cornflowerblue","coral2"), # Color of regression lines
+		ylim = c(-1,1), # y-axis value limits
+		linecolors = c("cornflowerblue","coral2"), # Color of regression lines
 		showgrid = F, # Show grid lines (T or F) 
-  		linetype = c("dashed","dashed") # line type for confidence interval lines (“blank”, “solid”, “dashed”,“dotted”, “dotdash”, “longdash”, “twodash”) 
+		linetype = c("dashed","dashed") # line type for confidence interval lines (“blank”, “solid”, “dashed”,“dotted”, “dotdash”, “longdash”, “twodash”) 
                 )
 ```
 
