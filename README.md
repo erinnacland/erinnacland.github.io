@@ -76,7 +76,7 @@ This should spit out a graph that looks like this:
 
 ## Step 4: Customize your graph
 
-```r
+```
 mplus.plot.loop('/Users/Location/filename.gh5', 
                 c("lowmod", "highmod"),
 		title = "Polygenic-Environment Interaction", # Plot title
