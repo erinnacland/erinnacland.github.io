@@ -1,5 +1,13 @@
+  ---
+  title: Page with cover image
+  author: Erinn Acland
+  date: 2023-11-20
+  category: Jekyll
+  layout: post
++ cover: /assets/jekyll-gitbook/dinosaur.gif
+  ---
 remote_theme: sighingnow/jekyll-gitbook
-title: Erinn's homepage
+title: Customized R Interaction Plots using Mplus Output
 description: R vignettes
 syntax_highlighter_style: colorful
 toc:
