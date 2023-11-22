@@ -65,7 +65,7 @@ Running this code should automatically create a .gh5 file in the folder your cod
 
 Use the "mplus.plot.loop" function to create your graph: provide the .gh5 file created from Mplus and the names of the plot lines you created for low and high moderation values.
 
-```r
+```
 mplus.plot.loop('/Location/filename.gh5',
 	c("lowmod", "highmod")
 	)
@@ -75,6 +75,8 @@ This should spit out a graph that looks like this:
 ![Rplot05](./imgs/Rplot05.png)
 
 ## Step 4: Customize your graph
+
+To add a title and axis labels to your plot use 'title' 'ylab' 'xlab'. To alter the legend text use 'leg.txt' and to move its location use 'leg.loc'
 
 ```
 mplus.plot.loop('/Users/Location/filename.gh5', 
