@@ -76,7 +76,22 @@ This should spit out a graph that looks like this:
 
 ## Step 4: Customize your graph
 
-To add a title and axis labels to your plot use 'title' 'ylab' 'xlab'. To alter the legend text use 'leg.txt' and to move its location use 'leg.loc'
+To add a title use `title` and grid lines can be toggled on via `showgrid` (options: T or F)
+
+For the axes:
+- Add axis labels to your plot with `ylab` and `xlab`
+- The limits of the y-axis can be set with `ylim`
+- Changing the x-axis limits requires altering the Mplus syntax: ```LOOP(pred,-2,2,0.1)```
+
+For the legend: 
+- Alter the legend text use `leg.txt`
+- Move legend location use `leg.loc` (options: "top", "topleft", "topright", "bottom", "bottomleft", "bottomright")
+- Change the size of the text use `leg.cex`
+- Set the colour of the legend box border `leg.b.col`
+
+For the lines:
+- Change line width with `lwid`
+- Confidence interval line types with `linetypes` (options: “blank”, “solid”, “dashed”,“dotted”, “dotdash”, “longdash”, “twodash”). You can also specify a number here to fully control the line gaps (e.g., c("24","24") or c("1223","1223"))
 
 ```
 mplus.plot.loop('/Users/Location/filename.gh5', 
@@ -84,15 +99,15 @@ mplus.plot.loop('/Users/Location/filename.gh5',
 		title = "Polygenic-Environment Interaction", # Plot title
 		ylab = "Social Aggression", # y-axis label
 		xlab = "Harsh Parenting", # x-axis label
-		lwid = 4, # Regression lines width
+		ylim = c(-1,1), # y-axis value limits
 		leg.txt = c("Low genetic risk (-1 SD)","High genetic risk (+1 SD)"), # Legend caption labels
 		leg.loc="topright", # Location of the legend
 		leg.cex = .8, # Size of legend text
 		leg.b.col = "lightgray", # Colour of legend box outline
-		ylim = c(-1,1), # y-axis value limits
 		linecolors = c("cornflowerblue","coral2"), # Color of regression lines
-		showgrid = F, # Show grid lines (T or F) 
+		lwid = 4, # Regression lines width
 		linetype = c("dashed","dashed") # line type for confidence interval lines (“blank”, “solid”, “dashed”,“dotted”, “dotdash”, “longdash”, “twodash”) 
+		showgrid = F, # Show grid lines (T or F) 
                 )
 ```
 
