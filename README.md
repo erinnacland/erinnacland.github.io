@@ -1,5 +1,3 @@
-*Author:* Erinn Acland
-
 This vignette is to help those who: 
   1. Use a Mac so they cannot create an interaction plot using Mplus, and
   2. Those who want to customize interaction plots using their Mplus output
@@ -114,3 +112,5 @@ mplus.plot.loop('/Users/Location/filename.gh5',
 These specifications should create a plot that looks like this:
 
 ![Rplot09](./imgs/Rplot09.png)
+
+Author: [Erinn Acland](erinnacland.weebly.com)
