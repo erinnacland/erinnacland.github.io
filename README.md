@@ -113,4 +113,4 @@ These specifications should create a plot that looks like this:
 
 ![Rplot09](./imgs/Rplot09.png)
 
-Author: [Erinn Acland](www.erinnacland.weebly.com)
+Author: [Erinn Acland](https://erinnacland.weebly.com/)
