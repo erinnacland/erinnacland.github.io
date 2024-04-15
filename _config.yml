@@ -24,7 +24,7 @@ author:
   avatar           : "Erinn1.png"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Antisocial development researcher. Interested in research integrity/reform and rstats. Occasional doer of art."
+  bio              : "Antisocial development researcher"
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "@erinnacland.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "erinnacland.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
