@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on why people harm others. To examine this, I study emotions, antisociality, and psychopathology in children and adolescents. I am also interested in research integrity/reform, R, and science communication. Occassionally I do art.
-
-Selected papers
+My research
 ======
 
 ## Do genetics interact with environment to affect youth antisocial behavior? 
