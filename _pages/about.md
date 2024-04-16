@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+---
 ### Do genetics interact with environment to affect youth antisocial behavior? 
 
 In a longitudinal study (N = 721), we assessed how genetic risk for antisociality (via two polygenetic risk scores; PRSa,c) and hostile environments (school violence, harsh parenting) related to stable and unstable forms of antisocial behavior (nonaggressive conduct problems, physical aggression, social aggression) across adolescence (ages 13, 15, and 17 years).
@@ -46,29 +47,19 @@ Young children exhibiting hot-reactive aggression may be particularly sensitive 
 
 ---
 ## How is anger linked to violence and recidivism in youth?
-<br/><img src='/images/Angerprofiles.png' height="200" align="right" >
+<br/><img src='/images/Angerprofiles.png' height="300" align="right" >
 ​​In a court-provided sample of justice system involved youth (N = 548), self-reported anger over the last few months did not relate to whether youth reoffended within two years. This is important information for courts to know given that many juvenile risk assessments include items measuring youths’ anger/irritability (e.g., YLS/CMI). However, characteristics of anger (i.e., fuse vs. duration) were important for their (re)offending behaviour. Among youth with a history of violent offending, reporting prolonged anger was linked to twice the likelihood of reoffending within 2 years. Alternatively, among youth who had a history of only nonviolent offences, reporting a short fuse was associated with being 2.2 times as likely to continue nonviolently offending.  Gender and age (11 to 18 years) were controlled and did not moderate these relations. ​​​
 
 Higher overall anger and/or a short anger fuse was linked to current violence in justice-involved youth. Overall anger was especially tied to current violence in youth age ~14 and older, and prolonged anger was only related to current violence in youth age ~14.5 and older.
 
-<img alt="Image alt text" title="Optional image title" width="350" height="350" align="left"
+<img alt="Image alt text" title="Optional image title" width="350" height="350" 
      src="https://erinnacland.github.io//images/angerfig1.jpg"
-/>
-<img alt="Image alt text" title="Optional image title" width="350" height="350" align="left"
+/> <img alt="Image alt text" title="Optional image title" width="350" height="350"
      src="https://erinnacland.github.io//images/angerfig2.jpg"
 /> 
+<br>
 **Figures.** Overall and prolonged self-reported anger and current violent behaviour by age in justice-involved youth. Mean age = 14.9 years, standard deviation (SD) = 1.40.​
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <img src='/images/Angerfindings.png' height="400" align="right"> 
 
 **IMPLICATIONS:** ​​There may be two youth anger profiles that are about twice as likely to reoffend compared to their low-anger counterparts: prolonged anger, serious offenders, and short-fuse, non-violent offenders. The first may represent a brooding youth capable of violence who also tends to engage in non-violent offences (like stealing). The second may represent a quick-tempered youth who tends to act on their emotions with little forethought, but it less likely to commit serious crimes. This latter repeat-offender type may be more likely to desist as they age, as emotion regulation improves with age and less serious youth offenders tend to desist offending in adulthood. 
