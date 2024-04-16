@@ -9,17 +9,20 @@ redirect_from:
 
 My research focuses on why people harm others. To examine this, I study emotions, antisociality, and psychopathology in children and adolescents. I am also interested in research integrity/reform, R, and science communication. Occassionally I do art.
 
-Seleceted papers
+Selected papers
 ======
 
-*Genetic-environment interactions affect youth antisocial behavior?*
+## Do genetics interact with environment to affect youth antisocial behavior? 
 
 In a longitudinal study (N = 721), we assessed how genetic risk for antisociality (via two polygenetic risk scores; PRSa,c) and hostile environments (school violence, harsh parenting) related to stable and unstable forms of antisocial behavior (nonaggressive conduct problems, physical aggression, social aggression) across adolescence (ages 13, 15, and 17 years).
 
 Harsh parenting, violence at school, and antisocial genetic risk were all independently associated with stable forms of antisocial behavior. We also found a consistent genetic-environment interaction specific to late adolescence:
+
 - Higher genetic risk for antisociality: harsher parenting was associated with increased social aggression (red lines)
 - Lower genetic risk for antisociality: harsher parenting was associated with decreased social aggression​ (blue lines)
+
 <br/><img src='/images/PRSfig.png'>
+
 Interestingly, each genetic risk score (PRSa and PRSc) showed the same genetic-environment interaction, despite each explaining separate portions of antisocial behavior. Genetic risk scores were not meaningfully correlated with one another likely due to one being derived from a primarily child sample (PRSc), while the other from a largely adult sample (PRSa). 
 
 *IMPLICATIONS:* Harsher parenting was linked to elevated stable antisocial behaviors across adolescence. However, shifts in social aggression in late adolescence were partially explained by a consistent genetic-environment interaction (~8% of variance).
@@ -30,38 +33,49 @@ These interactions may only emerge in late adolescence as youth overall become b
 
 Together this suggests that youth may respond to the same challenging environment in opposite ways depending on their susceptibility to that stressor. 
 
-Acland, E. L., Pocuca, N., Paquin, S., Boivin, M., Ouellet-Morin, I., Andlauer, T. F. M., Gouin, J. P., Côté S. M., Tremblay R. E., Geoffroy, M. & Castellanos-Ryan, N. (2024). Polygenic risk and hostile environments: Links to stable and dynamic antisocial behaviors across adolescence. Development and Psychopathology, 1-13. https://doi.org/10.1017/S095457942400004X (Open access article). 
+<sub> Acland, E. L., Pocuca, N., Paquin, S., Boivin, M., Ouellet-Morin, I., Andlauer, T. F. M., Gouin, J. P., Côté S. M., Tremblay R. E., Geoffroy, M. & Castellanos-Ryan, N. (2024). Polygenic risk and hostile environments: Links to stable and dynamic antisocial behaviors across adolescence. Development and Psychopathology, 1-13. https://doi.org/10.1017/S095457942400004X (Open access article). </sub>
 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## How is emotion recognition tied to cold-calculated vs. hot-reactive aggression?
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+In two independently collected samples of children, we found that more difficulty identifying expressions of fear, anger, and sadness in others was consistently related to using goal-focused (also known as cold-calculated) aggression. Fear and anger associations with goal-focused aggression were stronger in early (ages 4-6) and middle childhood (ages 8-9), respectively. Interestingly, we found that how they misrecognised angry expressions mattered. Goal-focused aggression was tied to thinking angry expressions looked emotionless (i.e., anger insensitivity), rather than mixing up anger for another emotion. ​
+<br/><img src='/images/Emotion.png' height="600" align="left" > On the other hand, we thought that reactive aggression—which is typically associated with a hot-headed temperament—would link to seeing more anger in faces regardless of whether they were actually angry (i.e., an anger bias). But surprisingly, that isn’t what we found.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Instead, thinking negative expressions looked happy (i.e., a happiness bias) was consistently linked to more reactive aggression, but only in early childhood. Findings were consistent in both samples.
 
-**Markdown generator**
+IMPLICATIONS: Children who engage in more cold-calculated aggression have greater difficulty seeing when others are in distress and are less sensitive to threat cues. Difficulty seeing that they've upset someone may allow them to stay calm and goal-focused in intense situations, making it easier for them to harm others to get what they want. 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Young children exhibiting hot-reactive aggression may be particularly sensitive to rewarding emotions leading them to see happiness when it isn’t there. Trouble figuring out the valence of an emotion (mistaking negative for positive emotions) could also be causing social blunders that result in conflict. ​​Lastly, this study was correlational, meaning we can’t say for sure whether reduced emotion recognition causes aggression in children, only that those two things seem to hang together. 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<sub>Acland, E., Peplak, J., Suri, A., & Malti, T. (2023). Emotion recognition links to reactive and proactive aggression across childhood: A multi-study design. Development and Psychopathology, 1-12. https://doi.org/0.1017/S0954579423000342 (Open access article). The illustration and excepts of this summary were adapted from an article we wrote for The Conversation Canada.</sub>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## How is anger linked to violence and recidivism in youth?
+<br/><img src='/images/Angerprofiles.png' height="300" align="right" >
+​​In a court-provided sample of justice system involved youth (N = 548), self-reported anger over the last few months did not relate to whether youth reoffended within two years. This is important information for courts to know given that many juvenile risk assessments include items measuring youths’ anger/irritability (e.g., YLS/CMI). However, characteristics of anger (i.e., fuse vs. duration) were important for their (re)offending behaviour. Among youth with a history of violent offending, reporting prolonged anger was linked to twice the likelihood of reoffending within 2 years. Alternatively, among youth who had a history of only nonviolent offences, reporting a short fuse was associated with being 2.2 times as likely to continue nonviolently offending.  Gender and age (11 to 18 years) were controlled and did not moderate these relations. ​​​
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Higher overall anger and/or a short anger fuse was linked to current violence in justice-involved youth. Overall anger was especially tied to current violence in youth age ~14 and older, and prolonged anger was only related to current violence in youth age ~14.5 and older.
+
+<img alt="Image alt text" title="Optional image title" width="350" height="350" align="left"
+     src="https://erinnacland.github.io//images/angerfig1.jpg"
+/>
+<img alt="Image alt text" title="Optional image title" width="350" height="350" align="left"
+     src="https://erinnacland.github.io//images/angerfig2.jpg"
+/> **Figures.** Overall and prolonged self-reported anger and current violent behaviour by age in justice-involved youth. Mean age = 14.9 years, standard deviation (SD) = 1.40.​
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src='/images/Angerfindings.png' height="400" align="right"> 
+
+**IMPLICATIONS:** ​​There may be two youth anger profiles that are about twice as likely to reoffend compared to their low-anger counterparts: prolonged anger, serious offenders, and short-fuse, non-violent offenders. The first may represent a brooding youth capable of violence who also tends to engage in non-violent offences (like stealing). The second may represent a quick-tempered youth who tends to act on their emotions with little forethought, but it less likely to commit serious crimes. This latter repeat-offender type may be more likely to desist as they age, as emotion regulation improves with age and less serious youth offenders tend to desist offending in adulthood. 
+
+Lastly, different characteristics of anger matter more or less depending on youths' age. Further research is still needed to replicate and build on the limited findings in this area. ​
+
+<sub> Acland, E. L. & Cavanagh, C. (2022). Anger, violence, and recidivism in justice system involved youth. Justice Quarterly. https://doi.org/10.1080/07418825.2022.2028882. View full-text accepted manuscript here. Illustrations and excerpts of this summary are from my article on this paper published in The Conversation Canada. </sub>
