@@ -1,12 +1,11 @@
 ---
 permalink: /
+title: "SELECTED RESEARCH PAPERS"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## SELECTED RESEARCH PAPERS 
-
 
 ### Do genetics interact with environment to affect youth antisocial behavior? 
 
