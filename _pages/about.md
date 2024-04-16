@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "My research"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-My research
-======
 
 ## Do genetics interact with environment to affect youth antisocial behavior? 
 
