@@ -1,19 +1,37 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My research focuses on why people harm others. To examine this, I study emotions, antisociality, and psychopathology in children and adolescents. I am also interested in research integrity/reform, R, and science communication. Occassionally I do art.
 
-A data-driven personal website
+Seleceted papers
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+*Genetic-environment interactions affect youth antisocial behavior?*
+
+In a longitudinal study (N = 721), we assessed how genetic risk for antisociality (via two polygenetic risk scores; PRSa,c) and hostile environments (school violence, harsh parenting) related to stable and unstable forms of antisocial behavior (nonaggressive conduct problems, physical aggression, social aggression) across adolescence (ages 13, 15, and 17 years).
+
+Harsh parenting, violence at school, and antisocial genetic risk were all independently associated with stable forms of antisocial behavior. We also found a consistent genetic-environment interaction specific to late adolescence:
+- Higher genetic risk for antisociality: harsher parenting was associated with increased social aggression (red lines)
+- Lower genetic risk for antisociality: harsher parenting was associated with decreased social aggression​ (blue lines)
+<br/><img src='/images/PRSfig.png'>
+Interestingly, each genetic risk score (PRSa and PRSc) showed the same genetic-environment interaction, despite each explaining separate portions of antisocial behavior. Genetic risk scores were not meaningfully correlated with one another likely due to one being derived from a primarily child sample (PRSc), while the other from a largely adult sample (PRSa). 
+
+*IMPLICATIONS:* Harsher parenting was linked to elevated stable antisocial behaviors across adolescence. However, shifts in social aggression in late adolescence were partially explained by a consistent genetic-environment interaction (~8% of variance).
+
+Late adolescents considered more susceptible to antisociality may respond to harsh parenting by mirroring that emotional hostility when interacting with peers. Alternately, youth less susceptible to antisociality may respond to harsh parenting in the opposite way: reducing their social aggression (i.e., abstaining from emotional bullying, isolating others, damaging relationships). Perhaps those with lower genetic risk for antisociality are more socially sensitive individuals, who withdraw from all types of social interactions (good and bad) when they feel attacked.
+
+These interactions may only emerge in late adolescence as youth overall become better at inhibiting their base impulses, making those that cannot control their behavior easier to identify as socially divergent. More research is needed to test this hypothesis. These findings are also correlational so we cannot say for certain it is the environment that causes these changes in behaviour, it could be the other way around or a third factor.
+
+Together this suggests that youth may respond to the same challenging environment in opposite ways depending on their susceptibility to that stressor. 
+
+Acland, E. L., Pocuca, N., Paquin, S., Boivin, M., Ouellet-Morin, I., Andlauer, T. F. M., Gouin, J. P., Côté S. M., Tremblay R. E., Geoffroy, M. & Castellanos-Ryan, N. (2024). Polygenic risk and hostile environments: Links to stable and dynamic antisocial behaviors across adolescence. Development and Psychopathology, 1-13. https://doi.org/10.1017/S095457942400004X (Open access article). 
+
 
 Getting started
 ======
