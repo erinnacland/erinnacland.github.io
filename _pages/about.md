@@ -46,7 +46,7 @@ Young children exhibiting hot-reactive aggression may be particularly sensitive 
 <sub>Acland, E., Peplak, J., Suri, A., & Malti, T. (2023). Emotion recognition links to reactive and proactive aggression across childhood: A multi-study design. Development and Psychopathology, 1-12. https://doi.org/0.1017/S0954579423000342 (Open access article). The illustration and excepts of this summary were adapted from an article we wrote for The Conversation Canada.</sub>
 
 ---
-## How is anger linked to violence and recidivism in youth?
+### How is anger linked to violence and recidivism in youth?
 <br/><img src='/images/Angerprofiles.png' style="height: 350px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="right" >
 ​​In a court-provided sample of justice system involved youth (N = 548), self-reported anger over the last few months did not relate to whether youth reoffended within two years. This is important information for courts to know given that many juvenile risk assessments include items measuring youths’ anger/irritability (e.g., YLS/CMI). However, characteristics of anger (i.e., fuse vs. duration) were important for their (re)offending behaviour. Among youth with a history of violent offending, reporting prolonged anger was linked to twice the likelihood of reoffending within 2 years. Alternatively, among youth who had a history of only nonviolent offences, reporting a short fuse was associated with being 2.2 times as likely to continue nonviolently offending.  Gender and age (11 to 18 years) were controlled and did not moderate these relations. ​​​
 
@@ -60,8 +60,8 @@ Higher overall anger and/or a short anger fuse was linked to current violence in
 
 **Figures.** Overall and prolonged self-reported anger and current violent behaviour by age in justice-involved youth. Mean age = 14.9 years, standard deviation (SD) = 1.40.​
 
-<img src='/images/Angerfindings.png' style="height: 400px; margin-right: 20px; margin-bottom: 10px; padding-top: 20px;" align="right" > 
-
+<img src='/images/Angerfindings.png' style="height: 400px; margin-right: 20px; margin-bottom: 10px; padding-top: 20px;" > 
+<br>
 **IMPLICATIONS:** ​​There may be two youth anger profiles that are about twice as likely to reoffend compared to their low-anger counterparts: prolonged anger, serious offenders, and short-fuse, non-violent offenders. The first may represent a brooding youth capable of violence who also tends to engage in non-violent offences (like stealing). The second may represent a quick-tempered youth who tends to act on their emotions with little forethought, but it less likely to commit serious crimes. This latter repeat-offender type may be more likely to desist as they age, as emotion regulation improves with age and less serious youth offenders tend to desist offending in adulthood. 
 
 Lastly, different characteristics of anger matter more or less depending on youths' age. Further research is still needed to replicate and build on the limited findings in this area. ​
