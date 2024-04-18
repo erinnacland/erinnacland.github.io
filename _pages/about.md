@@ -48,9 +48,9 @@ Young children exhibiting hot-reactive aggression may be particularly sensitive 
 ---
 ### How is anger linked to violence and recidivism in youth?
 <br/><img src='/images/Angerprofiles.png' style="height: 350px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="right" >
-​​In a court-provided sample of justice system involved youth (N = 548), self-reported anger over the last few months did not relate to whether youth reoffended within two years. This is important information for courts to know given that many juvenile risk assessments include items measuring youths’ anger/irritability (e.g., YLS/CMI). However, characteristics of anger (i.e., fuse vs. duration) were important for their (re)offending behaviour. Among youth with a history of violent offending, reporting prolonged anger was linked to twice the likelihood of reoffending within 2 years. Alternatively, among youth who had a history of only nonviolent offences, reporting a short fuse was associated with being 2.2 times as likely to continue nonviolently offending.  Gender and age (11 to 18 years) were controlled and did not moderate these relations. ​​​
+​​In a court-provided sample of justice system involved youth (N = 548), self-reported anger over the last few months did not relate to whether youth reoffended within two years. This is important information for courts to know given that many juvenile risk assessments include items measuring youths’ anger/irritability (e.g., YLS/CMI). However, characteristics of anger (i.e., fuse vs. duration) were important for their (re)offending behaviour. Among youth with a history of violent offending, reporting prolonged anger was linked to twice the odds of reoffending within 2 years. Alternatively, among youth who had a history of only nonviolent offences, reporting a short fuse was associated with 2.2 times the odds of continuing to nonviolently offend.  Gender and age (11 to 18 years) were controlled and did not moderate these relations. ​​​
 
-Higher overall anger and/or a short anger fuse was linked to current violence in justice-involved youth. Overall anger was especially tied to current violence in youth age ~14 and older, and prolonged anger was only related to current violence in youth age ~14.5 and older.
+Higher overall anger and/or short anger fuse was linked to current violence in justice-involved youth. Overall anger was especially tied to current violence in youth age ~14 and older, and prolonged anger was only related to current violence in youth age ~14.5 and older.
 
 <img alt="Image alt text" title="Optional image title" style="height: 350px; width: 350px; margin-right: 5px; margin-bottom: 10px; margin-top: 10px;" 
      src="https://erinnacland.github.io//images/angerfig1.jpg"
@@ -59,11 +59,38 @@ Higher overall anger and/or a short anger fuse was linked to current violence in
 /> 
 
 **Figures.** Overall and prolonged self-reported anger and current violent behaviour by age in justice-involved youth. Mean age = 14.9 years, standard deviation (SD) = 1.40.​
-
 <img src='/images/Angerfindings.png' style="height: 400px; margin-right: 20px; margin-bottom: 10px; padding-top: 20px;" > 
 <br>
-**IMPLICATIONS:** ​​There may be two youth anger profiles that are about twice as likely to reoffend compared to their low-anger counterparts: prolonged anger, serious offenders, and short-fuse, non-violent offenders. The first may represent a brooding youth capable of violence who also tends to engage in non-violent offences (like stealing). The second may represent a quick-tempered youth who tends to act on their emotions with little forethought, but it less likely to commit serious crimes. This latter repeat-offender type may be more likely to desist as they age, as emotion regulation improves with age and less serious youth offenders tend to desist offending in adulthood. 
+**IMPLICATIONS:** ​​There may be two youth anger profiles that are at twice the odds of reoffending compared to their low-anger counterparts: prolonged anger-serious offenders and short fuse-nonviolent offenders. The first may represent a brooding youth capable of violence who also tends to engage in non-violent offences (like stealing). The second may represent a quick-tempered youth who tends to act on their emotions with little forethought, but it less likely to commit serious crimes. This latter repeat-offender type may be more likely to desist as they age, as emotion regulation improves with age and less serious youth offenders tend to desist offending in adulthood. 
 
-Lastly, different characteristics of anger matter more or less depending on youths' age. Further research is still needed to replicate and build on the limited findings in this area. ​
+Lastly, anger may be especially tied to current violent behaviour in older adolescents. Further research is still needed to replicate and build on the limited findings in this area. ​
 
 <sub> Acland, E. L. & Cavanagh, C. (2022). Anger, violence, and recidivism in justice system involved youth. Justice Quarterly. https://doi.org/10.1080/07418825.2022.2028882. View full-text accepted manuscript here. Illustrations and excerpts of this summary are from my article on this paper published in The Conversation Canada. </sub>
+
+---
+###Is emotion recognition uniquely linked to aggression in children?
+
+We found that poor negative emotion recognition in children was uniquely linked to increased verbal/physical aggression, as opposed to non-aggressive externalizing symptoms (i.e., ADHD and ODD; N = 298).
+
+Emotion insensitivity (e.g., thinking a sad face is showing no emotion) appeared to contribute more to this relation than emotion misspecifications (e.g., mistaking a fearful face for looking angry).
+
+**​Figures.**​ Negative emotion (NE) insensitivity and mispecification's relation to concurrent overt (i.e., verbal/physical) aggression in 4- and 8-year-olds. Age, gender, verbal ability were controlled. Jitter (0.05) was added to points for improving visibility of point density. NE scores are mean-centered. 
+
+**​IMPLICATIONS:** Aggressive children appear to have unique difficulties in understanding others' cues of distress and hostility. Not being as sensitive to others' negative reactions may enable these youth to harm others without having to feel bad about doing so.
+
+<sub> Acland, E. L., Jambon, M., & Malti, T. (2021). Children's emotion recognition and aggression: A multi-cohort longitudinal study. Aggressive Behavior, 1– 13. https://doi.org/10.1002/ab.21989. ​Full-text available here. </sub>
+
+---
+###How is parasympathetic nervous system activity linked to prosociality in children?
+
+We found a goldilocks relation between children's ‘rest and digest' system (i.e., parasympathetic nervous system) and their prosociality (N = 300). Children with moderate levels of parasympathetic system activation had increased sympathy and prosocial behaviours (e.g., sharing). However, this was only the case for children in middle childhood, not early childhood. Parasympathetic system activation was indicated by children resting respiratory sinus arrhythmia (RSA).
+
+**Figures.** Resting RSA and child- and caregiver-reported sympathy and prosocial behaviour for 4- and 8-year-olds. RSA is mean-centered. 
+
+​**IMPLICATIONS:** Children in middle childhood with under- or over-activation of their parasympathetic nervous system at rest are less prosocial.
+
+​Those with over-activation of the 'rest and digest' system may be overly serene in the presence of a distressed other, reducing their ability/motivation to feel for and help others. Alternatively, 'under-activation' may be related to difficulty regulating one's own distress when confronted by a distressed other. Further research is needed to explore this theory.
+
+Resting RSA has been found to increase with age, thus its influence on behaviour may increase as children age. This would explain why we did not find consistent results in early childhood.
+
+<sub> ​Acland, E. L., Colasante, T., & Malti, T. (2019). Respiratory sinus arrhythmia and prosociality in childhood: Evidence for a quadratic effect. Developmental Psychobiology, 61(8), 1146-1156. https://doi.org/10.1002/dev.21872. Full-text available here. </sub>
