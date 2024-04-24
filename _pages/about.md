@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "SELECTED RESEARCH PAPERS"
+title: "Selected Research Papers"
 author_profile: true
 redirect_from: 
   - /about/
