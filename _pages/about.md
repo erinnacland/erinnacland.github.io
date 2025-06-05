@@ -1,13 +1,32 @@
 ---
 permalink: /
-title: "Selected Research Papers"
+title: "My Research"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
----
+My research focuses on what leads and motivates people to harm others. To examine this, I study emotions, antisociality, and psychopathology in children and youth. 
+
+# Selected paper summaries
+
+### What does it look like when aggression and suicidality co-occurs in youth?
+
+<img src='/images/Fig2.png' style="height: 450px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="right" > ​​In a population-based birth cohort (N = 1637), I performed a profile analysis to identify how aggression, suicidality, and emotionality patterns present in adolescents (15/17 years of age). 
+
+Most youth (~80%) showed little to no harm towards others or themselves. Of the youth showing harm, 95% of them appears to primarily harm either themselves OR others, not both. All youth showing harm had on average higher negative emotionality, but only those showwing aggression had higher callousness. Whether suicidality co-occured with aggression seemed to depend on the severity of the youth's negative emotionality.
+
+All youth showing either suicidality and/or aggression had parents that reported less positive parenting practices during their childhood. Youth showing aggression tended also have lower childhood household income, a more antisocial childhood best friend, and be assigned male at birth. Youth showing suicidality were more likely to have fathers showing more depression during their childhood and be assigned female at birth. 
+
+**IMPLICATIONS:** Sucidality and aggression rarely co-occur at high levels in the general population of adolescents. Youth typically either take out their emotional pain on themselves OR others, which may depend on their level of callousness toward others. Adolescents showing minimal harm towards themselves or others typically grow up in higher income households, with parents that spend more poisitive time with them (activities, games, encouragement), have less depressed fathers, and have less antisocial best friends.
+
+<p align="center">
+  <img src="/images/harmemotion.png" height="400px" style="margin-right: 20px; margin-bottom: 10px; padding-top: 20px;">
+</p>
+
+<sub> Acland, E.L., Pocuca, N., Chaput-Langlois, S., Hamaoui, J., Girard-Lapointe, J., & Côté, S.M., Castellanos-Ryan, N., Geoffroy, M.C. (Accepted). Aggression, suicidality, and emotion profiles in youth: Links to early life adversity. *Aggressive Behavior*. (Open access article). </sub>
+
 ### Do genetics interact with environment to affect youth antisocial behavior? 
 
 In a longitudinal study (N = 721), we assessed how genetic risk for antisociality (via two polygenetic risk scores; PRSa,c) and hostile environments (school violence, harsh parenting) related to stable and unstable forms of antisocial behavior (nonaggressive conduct problems, physical aggression, social aggression) across adolescence (ages 13, 15, and 17 years).
