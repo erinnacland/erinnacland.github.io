@@ -94,6 +94,9 @@ Emotion insensitivity (e.g., thinking a sad face is showing no emotion) appeared
 We found a goldilocks relation between children's ‘rest and digest' system (i.e., parasympathetic nervous system) and their prosociality (N = 300). Children with moderate levels of parasympathetic system activation had increased sympathy and prosocial behaviours (e.g., sharing). However, this was only the case for children in middle childhood, not early childhood. Parasympathetic system activation was indicated by children resting respiratory sinus arrhythmia (RSA).
 
 **Figures.** Resting RSA and child- and caregiver-reported sympathy and prosocial behaviour for 4- and 8-year-olds. RSA is mean-centered. 
+<p align="center">
+  <img src="/images/rsa.png" height="300px" style="margin-right: 20px; margin-bottom: 10px; padding-top: 20px;">
+</p>
 
 ​**IMPLICATIONS:** Children in middle childhood with under- or over-activation of their parasympathetic nervous system at rest are less prosocial.
 
