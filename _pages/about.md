@@ -60,9 +60,9 @@ Higher overall anger and/or short anger fuse was linked to current violence in j
   <img alt="Image alt text" title="Optional image title"
        src="https://erinnacland.github.io/images/angerfig2.jpg"
        style="height: 350px; width: 350px; margin-bottom: 10px; margin-top: 10px;" />
-</p>
+</p> 
 
-**Figures.** Overall and prolonged self-reported anger and current violent behaviour by age in justice-involved youth. Mean age = 14.9 years, standard deviation (SD) = 1.40.​
+<sub><b>Figures.</b> Overall and prolonged self-reported anger and current violent behaviour by age in justice-involved youth. Mean age = 14.9 years, standard deviation (SD) = 1.40.​ <sub>
 
 <p align="center">
   <img src="/images/Angerfindings.png" height="400px" style="margin-right: 20px; margin-bottom: 10px; padding-top: 20px;">
@@ -77,15 +77,15 @@ Lastly, anger may be especially tied to current violent behaviour in older adole
 ---
 ### Is emotion recognition uniquely linked to aggression in children?
 
-<img src='/images/helping2.png' style="height: 250px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="left" > 
-We found that poor negative emotion recognition in children was uniquely linked to increased physical aggression, as opposed to non-aggressive externalizing symptoms (i.e., ADHD and ODD; N = 298). Age, gender, and verbal ability were controlled. 
+<img src='/images/helping2.png' style="height: 250px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="left" > We found that poor negative emotion recognition in children was uniquely linked to increased physical aggression, as opposed to non-aggressive externalizing symptoms (i.e., ADHD and ODD; N = 298). Age, gender, and verbal ability were controlled. 
 
-Emotion insensitivity (e.g., thinking a sad face is showing no emotion) appeared to contribute more to this relation than emotion misspecifications (e.g., mistaking a fearful face for looking angry).
+<img src="/images/NE_agg.png" height="400px" style="margin-right: 20px; margin-bottom: 10px; padding-top: 20px;" align = "right">
 
-<img src='/images/NE_Agg.png' style="height: 250px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="left" > 
-**Figure.** Negative emotion (NE) recognition's relation to concurrent physical aggression in 4- and 8-year-olds. Jitter (0.05) was added to points for improving visibility of point density. NE scores are mean-centered. 
+Emotion insensitivity (thinking an unhappy face is showing no emotion) appeared to contribute more to this relation than emotion misspecifications (e.g., mistaking a fearful face for looking angry).
 
 **​IMPLICATIONS:** Aggressive children appear to have unique difficulties in understanding others' cues of distress and hostility. Not being as sensitive to others' negative reactions may enable these youth to harm others without having to feel bad about doing so.
+
+<sub><b>Figure.</b> Negative emotion recognition's relation to concurrent physical aggression in 4- and 8-year-olds. Jitter was added to points. Recognition scores represent what % of the 30 negative expressions children correctly identified. The density of score distributions are provided on the top (emotion recognition) and right side (aggression) of the graph by age.</sub>
 
 <sub> Acland, E. L., Jambon, M., & Malti, T. (2021). Children's emotion recognition and aggression: A multi-cohort longitudinal study. Aggressive Behavior, 1– 13. https://doi.org/10.1002/ab.21989. ​Full-text available here. </sub>
 
@@ -94,11 +94,28 @@ Emotion insensitivity (e.g., thinking a sad face is showing no emotion) appeared
 
 We found a goldilocks relation between children's ‘rest and digest' system (i.e., parasympathetic nervous system) and their prosociality (N = 300). Children with moderate levels of parasympathetic system activation had increased sympathy and prosocial behaviours (e.g., sharing). However, this was only the case for children in middle childhood, not early childhood. Parasympathetic system activation was indicated by children resting respiratory sinus arrhythmia (RSA).
 
-**Figures.** Resting RSA and child- and caregiver-reported sympathy and prosocial behaviour for 4- and 8-year-olds. RSA is mean-centered. 
 <p align="center">
-  <img src="/images/rsa.png" height="300px" style="margin-right: 20px; margin-bottom: 10px; padding-top: 20px;">
-</p>
+  <img alt="Image alt text" title="Optional image title"
+       src="https://erinnacland.github.io/images/rsa1.png"
+       style="height: 300px; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;" />
+  <img alt="Image alt text" title="Optional image title"
+       src="https://erinnacland.github.io/images/rsa2.png"
+       style="height: 300px;  margin-bottom: 10px; margin-top: 10px;" />
+</p> 
 
+<p align="center">
+  <img alt="Image alt text" title="Optional image title"
+       src="https://erinnacland.github.io/images/rsa3.png"
+       style="height: 300px; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;" />
+  <img alt="Image alt text" title="Optional image title"
+       src="https://erinnacland.github.io/images/rsa4.png"
+       style="height: 300px;  margin-bottom: 10px; margin-top: 10px;" />
+</p> 
+
+<sub><b>Figure.</b> Resting RSA and child- and caregiver-reported sympathy and prosocial behaviour for 4- and 8-year-olds. RSA is mean-centered. <sub>
+
+  <img src="/images/rsa.png" height="300px" style="margin-right: 20px; margin-bottom: 10px; padding-top: 20px;" align = "right">
+  
 ​**IMPLICATIONS:** Children in middle childhood with under- or over-activation of their parasympathetic nervous system at rest are less prosocial.
 
 ​Those with over-activation of the 'rest and digest' system may be overly serene in the presence of a distressed other, reducing their ability/motivation to feel for and help others. Alternatively, 'under-activation' may be related to difficulty regulating one's own distress when confronted by a distressed other. Further research is needed to explore this theory.
