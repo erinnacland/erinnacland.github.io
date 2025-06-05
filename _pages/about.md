@@ -78,11 +78,12 @@ Lastly, anger may be especially tied to current violent behaviour in older adole
 ### Is emotion recognition uniquely linked to aggression in children?
 
 <img src='/images/helping2.png' style="height: 250px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="left" > 
-We found that poor negative emotion recognition in children was uniquely linked to increased verbal/physical aggression, as opposed to non-aggressive externalizing symptoms (i.e., ADHD and ODD; N = 298).
+We found that poor negative emotion recognition in children was uniquely linked to increased physical aggression, as opposed to non-aggressive externalizing symptoms (i.e., ADHD and ODD; N = 298). Age, gender, and verbal ability were controlled. 
 
 Emotion insensitivity (e.g., thinking a sad face is showing no emotion) appeared to contribute more to this relation than emotion misspecifications (e.g., mistaking a fearful face for looking angry).
 
-**Figures.** Negative emotion (NE) insensitivity and mispecification's relation to concurrent overt (i.e., verbal/physical) aggression in 4- and 8-year-olds. Age, gender, verbal ability were controlled. Jitter (0.05) was added to points for improving visibility of point density. NE scores are mean-centered. 
+<img src='/images/NE_Agg.png' style="height: 250px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="left" > 
+**Figure.** Negative emotion (NE) recognition's relation to concurrent physical aggression in 4- and 8-year-olds. Jitter (0.05) was added to points for improving visibility of point density. NE scores are mean-centered. 
 
 **​IMPLICATIONS:** Aggressive children appear to have unique difficulties in understanding others' cues of distress and hostility. Not being as sensitive to others' negative reactions may enable these youth to harm others without having to feel bad about doing so.
 
