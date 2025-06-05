@@ -135,7 +135,7 @@ We found a goldilocks relation between children's ‘rest and digest' system (i.
 
 <sub><b>Figure.</b> Resting RSA and child- and caregiver-reported sympathy and prosocial behaviour for 4- and 8-year-olds. RSA is mean-centered. <sub>
 
-  <img src="/images/rsa.png" height="300px" style="margin-right: 20px; margin-bottom: 10px; padding-top: 20px;" align = "right">
+<img src='/images/rsa.png' style="height: 300px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;" align="right" > 
   
 ​**IMPLICATIONS:** Children in middle childhood with under- or over-activation of their parasympathetic nervous system at rest are less prosocial.
 
