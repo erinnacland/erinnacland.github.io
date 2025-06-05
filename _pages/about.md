@@ -13,7 +13,7 @@ My research focuses on what leads and motivates people to harm others. To examin
 
 ### What does it look like when aggression and suicidality co-occurs in youth?
 
-<img src='/images/Fig2.png' style="height: 450px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="right" > ​​In a population-based birth cohort (N = 1637), I performed a profile analysis to identify how aggression, suicidality, and emotionality patterns present in adolescents (15/17 years of age). 
+<img src='/images/Fig2.png' style="height: 450px; margin-left: 20px; margin-bottom: 0px; margin-top: 10px;" align="right" > ​​In a population-based birth cohort (N = 1637), I performed a profile analysis to identify how aggression, suicidality, and emotionality patterns present in adolescents (15/17 years of age). 
 
 Most youth (~80%) showed little to no harm towards others or themselves. Of the youth showing harm, 95% of them appear to primarily harm either themselves OR others, not both. All youth showing harm had on average higher negative emotionality, but only those showing heightened aggression had higher callousness. Whether suicidality co-occurs with aggression seemed to depend on the severity of the youth's negative emotionality.
 
@@ -22,7 +22,7 @@ All youth showing either suicidality and/or aggression had parents that reported
 **IMPLICATIONS:** Sucidality and aggression appears to rarely co-occur at high levels in the youth general population. Adolescents typically either take out their emotional pain on themselves OR others, which may depend on their level of callousness toward others. Adolescents showing minimal harm towards themselves or others typically grow up in higher income households, with parents that spend more poisitive time with them (activities, playing, encouragement), have less depressed fathers, and have less antisocial best friends.
 
 <p align="center">
-  <img src="/images/harmemotion.png" height="400px" style="margin-right: 20px; margin-bottom: 10px; padding-top: 20px;">
+  <img src="/images/harmemotion.png" height="400px" style="margin-right: 20px; margin-bottom: 0px; padding-top: 0px;">
 </p>
 
 <sub> Acland, E.L., Pocuca, N., Chaput-Langlois, S., Hamaoui, J., Girard-Lapointe, J., & Côté, S.M., Castellanos-Ryan, N., Geoffroy, M.C. (Accepted). Aggression, suicidality, and emotion profiles in youth: Links to early life adversity. *Aggressive Behavior*. (Open access article). </sub>
@@ -36,7 +36,7 @@ Harsh parenting, violence at school, and antisocial genetic risk were all indepe
 - Higher genetic risk for antisociality: harsher parenting was associated with increased social aggression (red lines)
 - Lower genetic risk for antisociality: harsher parenting was associated with decreased social aggression​ (blue lines)
 
-<br/><img src='/images/PRSfig.png'>
+<br/><img src='/images/PRSfig.png' style="margin-right: 0px; margin-bottom: 0px; padding-top: 0px;">
 
 Interestingly, each genetic risk score (PRSa and PRSc) showed the same genetic-environment interaction, despite each explaining separate portions of antisocial behavior. Genetic risk scores were not meaningfully correlated with one another likely due to one being derived from a primarily child sample (PRSc), while the other from a largely adult sample (PRSa). 
 
@@ -54,7 +54,7 @@ Together this suggests that youth may respond to the same challenging environmen
 ### How is emotion recognition tied to cold-calculated vs hot-reactive aggression?
 
 In two independently collected samples of children, we found that more difficulty identifying expressions of fear, anger, and sadness in others was consistently related to using goal-focused (also known as cold-calculated) aggression. Fear and anger associations with goal-focused aggression were stronger in early (ages 4-6) and middle childhood (ages 8-9), respectively. Interestingly, we found that how they misrecognised angry expressions mattered. Goal-focused aggression was tied to thinking angry expressions looked emotionless (i.e., anger insensitivity), rather than mixing up anger for another emotion. ​
-<br/><img src='/images/Emotion.png' style="height: 500px; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;" align="left" > 
+<br/><img src='/images/Emotion.png' style="height: 500px; margin-right: 20px; margin-bottom: 0px; margin-top: 10px;" align="left" > 
 
 On the other hand, we thought that reactive aggression—which is typically associated with a hot-headed temperament—would link to seeing more anger in faces regardless of whether they were actually angry (i.e., an anger bias). But surprisingly, that isn’t what we found.
 
@@ -75,21 +75,21 @@ Higher overall anger and/or short anger fuse was linked to current violence in j
 <p align="center">
   <img alt="Image alt text" title="Optional image title"
        src="https://erinnacland.github.io/images/angerfig1.jpg"
-       style="height: 350px; width: 350px; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;" />
+       style="height: 350px; width: 350px; margin-right: 10px; margin-bottom: 0px; margin-top: 0px;" />
   <img alt="Image alt text" title="Optional image title"
        src="https://erinnacland.github.io/images/angerfig2.jpg"
-       style="height: 350px; width: 350px; margin-bottom: 10px; margin-top: 10px;" />
+       style="height: 350px; width: 350px; margin-bottom: 0px; margin-top: 0px;" />
 </p> 
 
 <sub><b>Figures.</b> Overall and prolonged self-reported anger and current violent behaviour by age in justice-involved youth. Mean age = 14.9 years, standard deviation (SD) = 1.40.​ <sub>
 
-<p align="center">
-  <img src="/images/Angerfindings.png" height="400px" style="margin-right: 20px; margin-bottom: 10px; padding-top: 20px;">
-</p>
-
 **IMPLICATIONS:** There may be two youth anger profiles that are at twice the odds of reoffending compared to their low-anger counterparts: prolonged anger-serious offenders and short fuse-nonviolent offenders. The first may represent a brooding youth capable of violence who also tends to engage in non-violent offences (like stealing). The second may represent a quick-tempered youth who tends to act on their emotions with little forethought, but it less likely to commit serious crimes. This latter repeat-offender type may be more likely to desist as they age, as emotion regulation improves with age and less serious youth offenders tend to desist offending in adulthood. 
 
 Lastly, anger may be especially tied to current violent behaviour in older adolescents. Further research is still needed to replicate and build on the limited findings in this area. ​
+
+<p align="center">
+  <img src="/images/Angerfindings.png" height="400px" style="margin-right: 20px; margin-bottom: 0px; padding-top: 0px;">
+</p>
 
 <sub> Acland, E. L. & Cavanagh, C. (2022). Anger, violence, and recidivism in justice system involved youth. Justice Quarterly. https://doi.org/10.1080/07418825.2022.2028882. Illustrations and excerpts of this summary are from my article on this paper published in The Conversation Canada. </sub>
 
