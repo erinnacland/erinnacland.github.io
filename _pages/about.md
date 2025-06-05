@@ -118,19 +118,19 @@ We found a goldilocks relation between children's ‘rest and digest' system (i.
 <p align="center">
   <img alt="Image alt text" title="Optional image title"
        src="https://erinnacland.github.io/images/rsa1.png"
-       style="height: 250px; width:300px; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;" />
+       style="height: 300px; width:350px; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;" />
   <img alt="Image alt text" title="Optional image title"
        src="https://erinnacland.github.io/images/rsa2.png"
-       style="height: 250px; width:300px;  margin-bottom: 10px; margin-top: 10px;" />
+       style="height: 300px; width:350px;  margin-bottom: 10px; margin-top: 10px;" />
 </p> 
 
 <p align="center">
   <img alt="Image alt text" title="Optional image title"
        src="https://erinnacland.github.io/images/rsa3.png"
-       style="height: 250px; width:300px; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;" />
+       style="height: 300px; width:350px;  margin-right: 10px; margin-bottom: 10px; margin-top: 10px;" />
   <img alt="Image alt text" title="Optional image title"
        src="https://erinnacland.github.io/images/rsa4.png"
-       style="height: 250px; width:300px;  margin-bottom: 10px; margin-top: 10px;" />
+       style="height: 300px; width:350px;   margin-bottom: 10px; margin-top: 10px;" />
 </p> 
 
 <sub><b>Figure.</b> Resting RSA and child- and caregiver-reported sympathy and prosocial behaviour for 4- and 8-year-olds. RSA is mean-centered. <sub>
