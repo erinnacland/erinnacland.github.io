@@ -32,10 +32,12 @@ Together this suggests that youth may respond to the same challenging environmen
 <sub> Acland, E. L., Pocuca, N., Paquin, S., Boivin, M., Ouellet-Morin, I., Andlauer, T. F. M., Gouin, J. P., Côté S. M., Tremblay R. E., Geoffroy, M. & Castellanos-Ryan, N. (2024). Polygenic risk and hostile environments: Links to stable and dynamic antisocial behaviors across adolescence. Development and Psychopathology, 1-13. https://doi.org/10.1017/S095457942400004X (Open access article). </sub>
 
 ---
-### How is emotion recognition tied to cold-calculated vs. hot-reactive aggression?
+### How is emotion recognition tied to cold-calculated vs hot-reactive aggression?
 
 In two independently collected samples of children, we found that more difficulty identifying expressions of fear, anger, and sadness in others was consistently related to using goal-focused (also known as cold-calculated) aggression. Fear and anger associations with goal-focused aggression were stronger in early (ages 4-6) and middle childhood (ages 8-9), respectively. Interestingly, we found that how they misrecognised angry expressions mattered. Goal-focused aggression was tied to thinking angry expressions looked emotionless (i.e., anger insensitivity), rather than mixing up anger for another emotion. ​
-<br/><img src='/images/Emotion.png' style="height: 500px; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;" align="left" > On the other hand, we thought that reactive aggression—which is typically associated with a hot-headed temperament—would link to seeing more anger in faces regardless of whether they were actually angry (i.e., an anger bias). But surprisingly, that isn’t what we found.
+<br/><img src='/images/Emotion.png' style="height: 500px; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;" align="left" > 
+
+On the other hand, we thought that reactive aggression—which is typically associated with a hot-headed temperament—would link to seeing more anger in faces regardless of whether they were actually angry (i.e., an anger bias). But surprisingly, that isn’t what we found.
 
 Instead, thinking negative expressions looked happy (i.e., a happiness bias) was consistently linked to more reactive aggression, but only in early childhood. Findings were consistent in both samples.
 
@@ -46,42 +48,47 @@ Young children exhibiting hot-reactive aggression may be particularly sensitive 
 <sub>Acland, E., Peplak, J., Suri, A., & Malti, T. (2023). Emotion recognition links to reactive and proactive aggression across childhood: A multi-study design. Development and Psychopathology, 1-12. https://doi.org/0.1017/S0954579423000342 (Open access article). The illustration and excepts of this summary were adapted from an article we wrote for The Conversation Canada.</sub>
 
 ---
-### How is anger linked to violence and recidivism in youth?
-<br/><img src='/images/Angerprofiles.png' style="height: 350px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="right" >
-​​In a court-provided sample of justice system involved youth (N = 548), self-reported anger over the last few months did not relate to whether youth reoffended within two years. This is important information for courts to know given that many juvenile risk assessments include items measuring youths’ anger/irritability (e.g., YLS/CMI). However, characteristics of anger (i.e., fuse vs. duration) were important for their (re)offending behaviour. Among youth with a history of violent offending, reporting prolonged anger was linked to twice the odds of reoffending within 2 years. Alternatively, among youth who had a history of only nonviolent offences, reporting a short fuse was associated with 2.2 times the odds of continuing to nonviolently offend.  Gender and age (11 to 18 years) were controlled and did not moderate these relations. ​​​
+### How is anger linked to violence and recidivism in youth? 
+<br/><img src='/images/Angerprofiles.png' style="height: 350px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="right" > ​​In a court-provided sample of justice system involved youth (N = 548), self-reported anger over the last few months did not relate to whether youth reoffended within two years. This is important information for courts to know given that many juvenile risk assessments include items measuring youths’ anger/irritability (e.g., YLS/CMI). However, characteristics of anger (i.e., fuse vs. duration) were important for their (re)offending behaviour. Among youth with a history of violent offending, reporting prolonged anger was linked to twice the odds of reoffending within 2 years. Alternatively, among youth who had a history of only nonviolent offences, reporting a short fuse was associated with 2.2 times the odds of continuing to nonviolently offend.  Gender and age (11 to 18 years) were controlled and did not moderate these relations. ​​​
 
 Higher overall anger and/or short anger fuse was linked to current violence in justice-involved youth. Overall anger was especially tied to current violence in youth age ~14 and older, and prolonged anger was only related to current violence in youth age ~14.5 and older.
 
-<img alt="Image alt text" title="Optional image title" style="height: 350px; width: 350px; margin-right: 5px; margin-bottom: 10px; margin-top: 10px;" 
-     src="https://erinnacland.github.io//images/angerfig1.jpg"
-/> <img alt="Image alt text" title="Optional image title" style="height: 350px; width: 350px; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;" 
-     src="https://erinnacland.github.io//images/angerfig2.jpg"
-/> 
+<p align="center">
+  <img alt="Image alt text" title="Optional image title"
+       src="https://erinnacland.github.io/images/angerfig1.jpg"
+       style="height: 350px; width: 350px; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;" />
+  <img alt="Image alt text" title="Optional image title"
+       src="https://erinnacland.github.io/images/angerfig2.jpg"
+       style="height: 350px; width: 350px; margin-bottom: 10px; margin-top: 10px;" />
+</p>
 
 **Figures.** Overall and prolonged self-reported anger and current violent behaviour by age in justice-involved youth. Mean age = 14.9 years, standard deviation (SD) = 1.40.​
-<img src='/images/Angerfindings.png' style="height: 400px; margin-right: 20px; margin-bottom: 10px; padding-top: 20px;" > 
-<br>
-**IMPLICATIONS:** ​​There may be two youth anger profiles that are at twice the odds of reoffending compared to their low-anger counterparts: prolonged anger-serious offenders and short fuse-nonviolent offenders. The first may represent a brooding youth capable of violence who also tends to engage in non-violent offences (like stealing). The second may represent a quick-tempered youth who tends to act on their emotions with little forethought, but it less likely to commit serious crimes. This latter repeat-offender type may be more likely to desist as they age, as emotion regulation improves with age and less serious youth offenders tend to desist offending in adulthood. 
+
+<p align="center">
+  <img src="/images/Angerfindings.png" height="400px" style="margin-right: 20px; margin-bottom: 10px; padding-top: 20px;">
+</p>
+
+**IMPLICATIONS:** There may be two youth anger profiles that are at twice the odds of reoffending compared to their low-anger counterparts: prolonged anger-serious offenders and short fuse-nonviolent offenders. The first may represent a brooding youth capable of violence who also tends to engage in non-violent offences (like stealing). The second may represent a quick-tempered youth who tends to act on their emotions with little forethought, but it less likely to commit serious crimes. This latter repeat-offender type may be more likely to desist as they age, as emotion regulation improves with age and less serious youth offenders tend to desist offending in adulthood. 
 
 Lastly, anger may be especially tied to current violent behaviour in older adolescents. Further research is still needed to replicate and build on the limited findings in this area. ​
 
 <sub> Acland, E. L. & Cavanagh, C. (2022). Anger, violence, and recidivism in justice system involved youth. Justice Quarterly. https://doi.org/10.1080/07418825.2022.2028882. View full-text accepted manuscript here. Illustrations and excerpts of this summary are from my article on this paper published in The Conversation Canada. </sub>
 
 ---
-###Is emotion recognition uniquely linked to aggression in children?
+### Is emotion recognition uniquely linked to aggression in children?
 
 We found that poor negative emotion recognition in children was uniquely linked to increased verbal/physical aggression, as opposed to non-aggressive externalizing symptoms (i.e., ADHD and ODD; N = 298).
 
 Emotion insensitivity (e.g., thinking a sad face is showing no emotion) appeared to contribute more to this relation than emotion misspecifications (e.g., mistaking a fearful face for looking angry).
 
-**​Figures.**​ Negative emotion (NE) insensitivity and mispecification's relation to concurrent overt (i.e., verbal/physical) aggression in 4- and 8-year-olds. Age, gender, verbal ability were controlled. Jitter (0.05) was added to points for improving visibility of point density. NE scores are mean-centered. 
+**Figures.** Negative emotion (NE) insensitivity and mispecification's relation to concurrent overt (i.e., verbal/physical) aggression in 4- and 8-year-olds. Age, gender, verbal ability were controlled. Jitter (0.05) was added to points for improving visibility of point density. NE scores are mean-centered. 
 
 **​IMPLICATIONS:** Aggressive children appear to have unique difficulties in understanding others' cues of distress and hostility. Not being as sensitive to others' negative reactions may enable these youth to harm others without having to feel bad about doing so.
 
 <sub> Acland, E. L., Jambon, M., & Malti, T. (2021). Children's emotion recognition and aggression: A multi-cohort longitudinal study. Aggressive Behavior, 1– 13. https://doi.org/10.1002/ab.21989. ​Full-text available here. </sub>
 
 ---
-###How is parasympathetic nervous system activity linked to prosociality in children?
+### How is parasympathetic nervous system activity linked to prosociality in children?
 
 We found a goldilocks relation between children's ‘rest and digest' system (i.e., parasympathetic nervous system) and their prosociality (N = 300). Children with moderate levels of parasympathetic system activation had increased sympathy and prosocial behaviours (e.g., sharing). However, this was only the case for children in middle childhood, not early childhood. Parasympathetic system activation was indicated by children resting respiratory sinus arrhythmia (RSA).
 
