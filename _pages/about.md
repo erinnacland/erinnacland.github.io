@@ -49,7 +49,7 @@ Young children exhibiting hot-reactive aggression may be particularly sensitive 
 
 ---
 ### How is anger linked to violence and recidivism in youth? 
-<br/><img src='/images/Angerprofiles.png' style="height: 350px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="right" > ​​In a court-provided sample of justice system involved youth (N = 548), self-reported anger over the last few months did not relate to whether youth reoffended within two years. This is important information for courts to know given that many juvenile risk assessments include items measuring youths’ anger/irritability (e.g., YLS/CMI). However, characteristics of anger (i.e., fuse vs. duration) were important for their (re)offending behaviour. Among youth with a history of violent offending, reporting prolonged anger was linked to twice the odds of reoffending within 2 years. Alternatively, among youth who had a history of only nonviolent offences, reporting a short fuse was associated with 2.2 times the odds of continuing to nonviolently offend.  Gender and age (11 to 18 years) were controlled and did not moderate these relations. ​​​
+<img src='/images/Angerprofiles.png' style="height: 350px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="right" > ​​In a court-provided sample of justice system involved youth (N = 548), self-reported anger over the last few months did not relate to whether youth reoffended within two years. This is important information for courts to know given that many juvenile risk assessments include items measuring youths’ anger/irritability (e.g., YLS/CMI). However, characteristics of anger (i.e., fuse vs. duration) were important for their (re)offending behaviour. Among youth with a history of violent offending, reporting prolonged anger was linked to twice the odds of reoffending within 2 years. Alternatively, among youth who had a history of only nonviolent offences, reporting a short fuse was associated with 2.2 times the odds of continuing to nonviolently offend.  Gender and age (11 to 18 years) were controlled and did not moderate these relations. ​​​
 
 Higher overall anger and/or short anger fuse was linked to current violence in justice-involved youth. Overall anger was especially tied to current violence in youth age ~14 and older, and prolonged anger was only related to current violence in youth age ~14.5 and older.
 
@@ -77,6 +77,7 @@ Lastly, anger may be especially tied to current violent behaviour in older adole
 ---
 ### Is emotion recognition uniquely linked to aggression in children?
 
+<img src='/images/helping2.png' style="height: 250px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="left" > 
 We found that poor negative emotion recognition in children was uniquely linked to increased verbal/physical aggression, as opposed to non-aggressive externalizing symptoms (i.e., ADHD and ODD; N = 298).
 
 Emotion insensitivity (e.g., thinking a sad face is showing no emotion) appeared to contribute more to this relation than emotion misspecifications (e.g., mistaking a fearful face for looking angry).
