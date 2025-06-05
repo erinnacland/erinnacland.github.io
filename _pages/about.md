@@ -72,7 +72,7 @@ Higher overall anger and/or short anger fuse was linked to current violence in j
 
 Lastly, anger may be especially tied to current violent behaviour in older adolescents. Further research is still needed to replicate and build on the limited findings in this area. ​
 
-<sub> Acland, E. L. & Cavanagh, C. (2022). Anger, violence, and recidivism in justice system involved youth. Justice Quarterly. https://doi.org/10.1080/07418825.2022.2028882. View full-text accepted manuscript here. Illustrations and excerpts of this summary are from my article on this paper published in The Conversation Canada. </sub>
+<sub> Acland, E. L. & Cavanagh, C. (2022). Anger, violence, and recidivism in justice system involved youth. Justice Quarterly. https://doi.org/10.1080/07418825.2022.2028882. Illustrations and excerpts of this summary are from my article on this paper published in The Conversation Canada. </sub>
 
 ---
 ### Is emotion recognition uniquely linked to aggression in children?
@@ -87,7 +87,7 @@ Emotion insensitivity (thinking an unhappy face is showing no emotion) appeared 
 
 <sub><b>Figure.</b> Negative emotion recognition's relation to concurrent physical aggression in 4- and 8-year-olds. Jitter was added to points. Recognition scores represent what % of the 30 negative expressions children correctly identified. The density of score distributions are provided on the top (emotion recognition) and right side (aggression) of the graph by age.</sub>
 
-<sub> Acland, E. L., Jambon, M., & Malti, T. (2021). Children's emotion recognition and aggression: A multi-cohort longitudinal study. Aggressive Behavior, 1– 13. https://doi.org/10.1002/ab.21989. ​Full-text available here. </sub>
+<sub> Acland, E. L., Jambon, M., & Malti, T. (2021). Children's emotion recognition and aggression: A multi-cohort longitudinal study. Aggressive Behavior, 1– 13. https://doi.org/10.1002/ab.21989. </sub>
 
 ---
 ### How is parasympathetic nervous system activity linked to prosociality in children?
@@ -122,4 +122,4 @@ We found a goldilocks relation between children's ‘rest and digest' system (i.
 
 Resting RSA has been found to increase with age, thus its influence on behaviour may increase as children age. This would explain why we did not find consistent results in early childhood.
 
-<sub> ​Acland, E. L., Colasante, T., & Malti, T. (2019). Respiratory sinus arrhythmia and prosociality in childhood: Evidence for a quadratic effect. Developmental Psychobiology, 61(8), 1146-1156. https://doi.org/10.1002/dev.21872. Full-text available here. </sub>
+<sub> ​Acland, E. L., Colasante, T., & Malti, T. (2019). Respiratory sinus arrhythmia and prosociality in childhood: Evidence for a quadratic effect. Developmental Psychobiology, 61(8), 1146-1156. https://doi.org/10.1002/dev.21872. </sub>
