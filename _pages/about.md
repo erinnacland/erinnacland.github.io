@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My research"
+title: "RESEARCH"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,6 +10,8 @@ redirect_from:
 My research focuses on what leads and motivates people to harm others. To examine this, I study emotions, antisociality, and psychopathology in children and youth. 
 
 # Selected paper summaries
+
+For a full list, see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=wI3N2lsAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### What does it look like when aggression and suicidality co-occurs in youth?
 
