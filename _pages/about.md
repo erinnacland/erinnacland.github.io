@@ -100,7 +100,7 @@ Lastly, anger may be especially tied to current violent behaviour in older adole
 
 We found that poor negative emotion recognition in children was uniquely linked to increased physical aggression, as opposed to non-aggressive externalizing symptoms (i.e., ADHD and ODD; N = 298). Age, gender, and verbal ability were controlled. 
 
-<img src='/images/NE_agg.png' style="height: 450px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="right" > 
+<img src='/images/NE_agg.png' style="height: 450px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;" align="right" > 
 
 Emotion insensitivity (thinking an unhappy face is showing no emotion) appeared to contribute more to this relation than emotion misspecifications (e.g., mistaking a fearful face for looking angry).
 
@@ -118,19 +118,19 @@ We found a goldilocks relation between children's ‘rest and digest' system (i.
 <p align="center">
   <img alt="Image alt text" title="Optional image title"
        src="https://erinnacland.github.io/images/rsa1.png"
-       style="height: 300px; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;" />
+       style="height: 250px; width:300px; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;" />
   <img alt="Image alt text" title="Optional image title"
        src="https://erinnacland.github.io/images/rsa2.png"
-       style="height: 300px;  margin-bottom: 10px; margin-top: 10px;" />
+       style="height: 250px; width:300px;  margin-bottom: 10px; margin-top: 10px;" />
 </p> 
 
 <p align="center">
   <img alt="Image alt text" title="Optional image title"
        src="https://erinnacland.github.io/images/rsa3.png"
-       style="height: 300px; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;" />
+       style="height: 250px; width:300px; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;" />
   <img alt="Image alt text" title="Optional image title"
        src="https://erinnacland.github.io/images/rsa4.png"
-       style="height: 300px;  margin-bottom: 10px; margin-top: 10px;" />
+       style="height: 250px; width:300px;  margin-bottom: 10px; margin-top: 10px;" />
 </p> 
 
 <sub><b>Figure.</b> Resting RSA and child- and caregiver-reported sympathy and prosocial behaviour for 4- and 8-year-olds. RSA is mean-centered. <sub>
