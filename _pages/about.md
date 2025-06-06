@@ -1,18 +1,11 @@
 ---
 permalink: /
-title: "RESEARCH"
+title: "SELECTED PAPERS"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-My research focuses on what leads and motivates people to harm others. To examine this, I study emotions, antisociality, and psychopathology in children and youth. 
-
-# Selected paper summaries
-
-For a full list, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=wI3N2lsAAAAJ&view_op=list_works&sortby=pubdate).
-
 ### What does it look like when aggression and suicidality co-occurs in youth?
 
 <img src='/images/Fig2.png' style="height: 450px; margin-left: 20px; margin-bottom: 0px; margin-top: 10px;" align="right" > ​​In a population-based birth cohort (N = 1637), I performed a profile analysis to identify how aggression, suicidality, and emotionality patterns present in adolescents (15/17 years of age). 
