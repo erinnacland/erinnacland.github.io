@@ -50,7 +50,7 @@ These interactions may only emerge in late adolescence as youth overall become b
 
 Together this suggests that youth may respond to the same challenging environment in opposite ways depending on their susceptibility to that stressor. 
 
-<sub> Acland, E. L., Pocuca, N., Paquin, S., Boivin, M., Ouellet-Morin, I., Andlauer, T. F. M., Gouin, J. P., Côté S. M., Tremblay R. E., Geoffroy, M. & Castellanos-Ryan, N. (2024). Polygenic risk and hostile environments: Links to stable and dynamic antisocial behaviors across adolescence. Development and Psychopathology, 1-13. https://doi.org/10.1017/S095457942400004X (Open access article). </sub>
+<sub> Acland, E. L., Pocuca, N., Paquin, S., Boivin, M., Ouellet-Morin, I., Andlauer, T. F. M., Gouin, J. P., Côté S. M., Tremblay R. E., Geoffroy, M. & Castellanos-Ryan, N. (2024). Polygenic risk and hostile environments: Links to stable and dynamic antisocial behaviors across adolescence. Development and Psychopathology, 1-13. [https://doi.org/10.1017/S095457942400004X](https://doi.org/10.1017/S095457942400004X) (Open access article). </sub>
 
 ---
 ### How is emotion recognition tied to cold-calculated vs hot-reactive aggression?
@@ -66,7 +66,7 @@ Instead, thinking negative expressions looked happy (i.e., a happiness bias) was
 
 Young children exhibiting hot-reactive aggression may be particularly sensitive to rewarding emotions leading them to see happiness when it isn’t there. Trouble figuring out the valence of an emotion (mistaking negative for positive emotions) could also be causing social blunders that result in conflict. ​​Lastly, this study was correlational, meaning we can’t say for sure whether reduced emotion recognition causes aggression in children, only that those two things seem to hang together. 
 
-<sub>Acland, E., Peplak, J., Suri, A., & Malti, T. (2023). Emotion recognition links to reactive and proactive aggression across childhood: A multi-study design. Development and Psychopathology, 1-12. https://doi.org/0.1017/S0954579423000342 (Open access article). The illustration and excepts of this summary were adapted from an article we wrote for The Conversation Canada.</sub>
+<sub>Acland, E., Peplak, J., Suri, A., & Malti, T. (2023). Emotion recognition links to reactive and proactive aggression across childhood: A multi-study design. Development and Psychopathology, 1-12. [https://doi.org/0.1017/S0954579423000342](https://doi.org/0.1017/S0954579423000342) (Open access article). The illustration and excepts of this summary were adapted from an article we wrote for The Conversation Canada.</sub>
 
 ---
 ### How is anger linked to violence and recidivism in youth? 
@@ -93,7 +93,7 @@ Lastly, anger may be especially tied to current violent behaviour in older adole
   <img src="/images/Angerfindings.png" height="400px" style="margin-right: 20px; margin-bottom: 0px; padding-top: 0px;">
 </p>
 
-<sub> Acland, E. L. & Cavanagh, C. (2022). Anger, violence, and recidivism in justice system involved youth. Justice Quarterly. https://doi.org/10.1080/07418825.2022.2028882. Illustrations and excerpts of this summary are from my article on this paper published in The Conversation Canada. </sub>
+<sub> Acland, E. L. & Cavanagh, C. (2022). Anger, violence, and recidivism in justice system involved youth. Justice Quarterly. [https://doi.org/10.1080/07418825.2022.2028882](https://doi.org/10.1080/07418825.2022.2028882). Illustrations and excerpts of this summary are from my article on this paper published in The Conversation Canada. </sub>
 
 ---
 ### Is emotion recognition uniquely linked to aggression in children?
@@ -110,7 +110,7 @@ Emotion insensitivity (thinking an unhappy face is showing no emotion) appeared 
 
 <sub><b>Figure.</b> Negative emotion recognition's relation to concurrent physical aggression in 4- and 8-year-olds. Jitter was added to points. Recognition scores represent what % of the 30 negative expressions children correctly identified. The density of score distributions are provided on the top (emotion recognition) and right side (aggression) of the graph by age.</sub>
 
-<sub> Acland, E. L., Jambon, M., & Malti, T. (2021). Children's emotion recognition and aggression: A multi-cohort longitudinal study. Aggressive Behavior, 1– 13. https://doi.org/10.1002/ab.21989. </sub>
+<sub> Acland, E. L., Jambon, M., & Malti, T. (2021). Children's emotion recognition and aggression: A multi-cohort longitudinal study. Aggressive Behavior, 1– 13. [https://doi.org/10.1002/ab.21989](https://doi.org/10.1002/ab.21989). </sub>
 
 ---
 ### How is parasympathetic nervous system activity linked to prosociality in children?
@@ -145,4 +145,4 @@ We found a goldilocks relation between children's ‘rest and digest' system (i.
 
 Resting RSA has been found to increase with age, thus its influence on behaviour may increase as children age. This would explain why we did not find consistent results in early childhood.
 
-<sub> ​Acland, E. L., Colasante, T., & Malti, T. (2019). Respiratory sinus arrhythmia and prosociality in childhood: Evidence for a quadratic effect. Developmental Psychobiology, 61(8), 1146-1156. https://doi.org/10.1002/dev.21872. </sub>
+<sub> ​Acland, E. L., Colasante, T., & Malti, T. (2019). Respiratory sinus arrhythmia and prosociality in childhood: Evidence for a quadratic effect. Developmental Psychobiology, 61(8), 1146-1156. [https://doi.org/10.1002/dev.21872](https://doi.org/10.1002/dev.21872). </sub>
