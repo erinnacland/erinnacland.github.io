@@ -29,6 +29,8 @@ All youth showing either suicidality and/or aggression had parents that reported
 
 <sub> Acland, E.L., Pocuca, N., Chaput-Langlois, S., Hamaoui, J., Girard-Lapointe, J., & Côté, S.M., Castellanos-Ryan, N., Geoffroy, M.C. (Accepted). Aggression, suicidality, and emotion profiles in youth: Links to early life adversity. *Aggressive Behavior*. (Open access article). </sub>
 
+---
+
 ### Do genetics interact with environment to affect youth antisocial behavior? 
 
 In a longitudinal study (N = 721), we assessed how genetic risk for antisociality (via two polygenetic risk scores; PRSa,c) and hostile environments (school violence, harsh parenting) related to stable and unstable forms of antisocial behavior (nonaggressive conduct problems, physical aggression, social aggression) across adolescence (ages 13, 15, and 17 years).
