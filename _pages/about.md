@@ -33,7 +33,7 @@ Harsh parenting, violence at school, and antisocial genetic risk were all indepe
 - Lower genetic risk for antisociality: harsher parenting was associated with decreased social aggression​ (blue lines)
 
 <p align="center">
-<br/><img src='/images/PRSfig.png' style="height: 350px; margin-right: 0px; margin-bottom: 0px; padding-top: 0px;">
+<img src='/images/PRSfig.png' style="height: 350px; margin-right: 0px; margin-bottom: 0px; padding-top: 0px;">
 <p/>
 
 Interestingly, each genetic risk score (PRSa and PRSc) showed the same genetic-environment interaction, despite each explaining separate portions of antisocial behavior. Genetic risk scores were not meaningfully correlated with one another likely due to one being derived from a primarily child sample (PRSc), while the other from a largely adult sample (PRSa). 
