@@ -17,7 +17,7 @@ All youth showing either suicidality and/or aggression had parents that reported
 **IMPLICATIONS:** Sucidality and aggression appears to rarely co-occur at high levels in the youth general population. Adolescents typically either take out their emotional pain on themselves OR others, which may depend on their level of callousness toward others. Adolescents showing minimal harm towards themselves or others typically grow up in higher income households, with parents that spend more poisitive time with them (activities, playing, encouragement), have less depressed fathers, and have less antisocial best friends.
 
 <p align="center">
-  <img src="/images/harmemotion.png" height="400px" style="margin-right: 20px; margin-bottom: 0px; padding-top: 0px;">
+  <img src="/images/harmemotion.png" style="height: 400px; margin-right: 20px; margin-bottom: 0px; padding-top: 0px;">
 </p>
 
 <sub> Acland, E.L., Pocuca, N., Chaput-Langlois, S., Hamaoui, J., Girard-Lapointe, J., & Côté, S.M., Castellanos-Ryan, N., Geoffroy, M.C. (Accepted). Aggression, suicidality, and emotion profiles in youth: Links to early life adversity. *Aggressive Behavior*. (Open access article). </sub>
@@ -37,6 +37,7 @@ Harsh parenting, violence at school, and antisocial genetic risk were all indepe
 <p/>
 
 Interestingly, each genetic risk score (PRSa and PRSc) showed the same genetic-environment interaction, despite each explaining separate portions of antisocial behavior. Genetic risk scores were not meaningfully correlated with one another likely due to one being derived from a primarily child sample (PRSc), while the other from a largely adult sample (PRSa). 
+
 <br/>
 **IMPLICATIONS:** Harsher parenting was linked to elevated stable antisocial behaviors across adolescence. However, shifts in social aggression in late adolescence were partially explained by a consistent genetic-environment interaction (~8% of variance).
 
