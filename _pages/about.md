@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### What does it look like when aggression and suicidality co-occurs in youth?
+## What does it look like when aggression and suicidality co-occurs in youth?
 
 <img src='/images/Fig2.png' style="height: 450px; margin-left: 20px; margin-bottom: 0px; margin-top: 10px;" align="right" > ​​In a population-based birth cohort (N = 1637), I performed a profile analysis to identify how aggression, suicidality, and emotionality patterns present in adolescents (15/17 years of age). 
 
@@ -24,7 +24,7 @@ All youth showing either suicidality and/or aggression had parents that reported
 
 ---
 
-### Do genetics interact with environment to affect youth antisocial behavior? 
+## Do genetics interact with environment to affect youth antisocial behavior? 
 
 In a longitudinal study (N = 721), we assessed how genetic risk for antisociality (via two polygenetic risk scores; PRSa,c) and hostile environments (school violence, harsh parenting) related to stable and unstable forms of antisocial behavior (nonaggressive conduct problems, physical aggression, social aggression) across adolescence (ages 13, 15, and 17 years).
 
@@ -33,7 +33,9 @@ Harsh parenting, violence at school, and antisocial genetic risk were all indepe
 - Higher genetic risk for antisociality: harsher parenting was associated with increased social aggression (red lines)
 - Lower genetic risk for antisociality: harsher parenting was associated with decreased social aggression​ (blue lines)
 
-<br/><img src='/images/PRSfig.png' style="margin-right: 0px; margin-bottom: 0px; padding-top: 0px;">
+<p align="center">
+<br/><img src='/images/PRSfig.png' style="height: 350px; margin-right: 0px; margin-bottom: 0px; padding-top: 0px;">
+<p/>
 
 Interestingly, each genetic risk score (PRSa and PRSc) showed the same genetic-environment interaction, despite each explaining separate portions of antisocial behavior. Genetic risk scores were not meaningfully correlated with one another likely due to one being derived from a primarily child sample (PRSc), while the other from a largely adult sample (PRSa). 
 
@@ -48,10 +50,10 @@ Together this suggests that youth may respond to the same challenging environmen
 <sub> Acland, E. L., Pocuca, N., Paquin, S., Boivin, M., Ouellet-Morin, I., Andlauer, T. F. M., Gouin, J. P., Côté S. M., Tremblay R. E., Geoffroy, M. & Castellanos-Ryan, N. (2024). Polygenic risk and hostile environments: Links to stable and dynamic antisocial behaviors across adolescence. Development and Psychopathology, 1-13. [https://doi.org/10.1017/S095457942400004X](https://doi.org/10.1017/S095457942400004X) (Open access article). </sub>
 
 ---
-### How is emotion recognition tied to cold-calculated vs hot-reactive aggression?
+## How is emotion recognition tied to cold-calculated vs hot-reactive aggression?
 
 In two independently collected samples of children, we found that more difficulty identifying expressions of fear, anger, and sadness in others was consistently related to using goal-focused (also known as cold-calculated) aggression. Fear and anger associations with goal-focused aggression were stronger in early (ages 4-6) and middle childhood (ages 8-9), respectively. Interestingly, we found that how they misrecognised angry expressions mattered. Goal-focused aggression was tied to thinking angry expressions looked emotionless (i.e., anger insensitivity), rather than mixing up anger for another emotion. ​
-<br/><img src='/images/Emotion.png' style="height: 500px; margin-right: 20px; margin-bottom: 0px; margin-top: 10px;" align="left" > 
+<br/><img src='/images/Emotion.png' style="height: 400px; margin-right: 20px; margin-bottom: 0px; margin-top: 10px;" align="left" > 
 
 On the other hand, we thought that reactive aggression—which is typically associated with a hot-headed temperament—would link to seeing more anger in faces regardless of whether they were actually angry (i.e., an anger bias). But surprisingly, that isn’t what we found.
 
@@ -64,7 +66,7 @@ Young children exhibiting hot-reactive aggression may be particularly sensitive 
 <sub>Acland, E., Peplak, J., Suri, A., & Malti, T. (2023). Emotion recognition links to reactive and proactive aggression across childhood: A multi-study design. Development and Psychopathology, 1-12. [https://doi.org/0.1017/S0954579423000342](https://doi.org/0.1017/S0954579423000342) (Open access article). The illustration and excepts of this summary were adapted from an article we wrote for The Conversation Canada.</sub>
 
 ---
-### How is anger linked to violence and recidivism in youth? 
+## How is anger linked to violence and recidivism in youth? 
 <img src='/images/Angerprofiles.png' style="height: 350px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="right" > ​​In a court-provided sample of justice system involved youth (N = 548), self-reported anger over the last few months did not relate to whether youth reoffended within two years. This is important information for courts to know given that many juvenile risk assessments include items measuring youths’ anger/irritability (e.g., YLS/CMI). However, characteristics of anger (i.e., fuse vs. duration) were important for their (re)offending behaviour. Among youth with a history of violent offending, reporting prolonged anger was linked to twice the odds of reoffending within 2 years. Alternatively, among youth who had a history of only nonviolent offences, reporting a short fuse was associated with 2.2 times the odds of continuing to nonviolently offend.  Gender and age (11 to 18 years) were controlled and did not moderate these relations. ​​​
 
 Higher overall anger and/or short anger fuse was linked to current violence in justice-involved youth. Overall anger was especially tied to current violence in youth age ~14 and older, and prolonged anger was only related to current violence in youth age ~14.5 and older.
@@ -85,13 +87,13 @@ Higher overall anger and/or short anger fuse was linked to current violence in j
 Lastly, anger may be especially tied to current violent behaviour in older adolescents. Further research is still needed to replicate and build on the limited findings in this area. ​
 
 <p align="center">
-  <img src="/images/Angerfindings.png" height="400px" style="margin-right: 20px; margin-bottom: 0px; padding-top: 0px;">
+  <img src="/images/Angerfindings.png" style="height: 400px; margin-left: 20px; margin-bottom: 0px; margin-top: 0px;" >
 </p>
 
 <sub> Acland, E. L. & Cavanagh, C. (2022). Anger, violence, and recidivism in justice system involved youth. Justice Quarterly. [https://doi.org/10.1080/07418825.2022.2028882](https://doi.org/10.1080/07418825.2022.2028882). Illustrations and excerpts of this summary are from my article on this paper published in The Conversation Canada. </sub>
 
 ---
-### Is emotion recognition uniquely linked to aggression in children?
+## Is emotion recognition uniquely linked to aggression in children?
 
 <img src='/images/helping2.png' style="height: 250px; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;" align="left" > 
 
@@ -108,7 +110,7 @@ Emotion insensitivity (thinking an unhappy face is showing no emotion) appeared 
 <sub> Acland, E. L., Jambon, M., & Malti, T. (2021). Children's emotion recognition and aggression: A multi-cohort longitudinal study. Aggressive Behavior, 1– 13. [https://doi.org/10.1002/ab.21989](https://doi.org/10.1002/ab.21989). </sub>
 
 ---
-### How is parasympathetic nervous system activity linked to prosociality in children?
+## How is parasympathetic nervous system activity linked to prosociality in children?
 
 We found a goldilocks relation between children's ‘rest and digest' system (i.e., parasympathetic nervous system) and their prosociality (N = 300). Children with moderate levels of parasympathetic system activation had increased sympathy and prosocial behaviours (e.g., sharing). However, this was only the case for children in middle childhood, not early childhood. Parasympathetic system activation was indicated by children resting respiratory sinus arrhythmia (RSA).
 
