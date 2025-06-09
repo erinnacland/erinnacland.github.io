@@ -34,7 +34,7 @@ Harsh parenting, violence at school, and antisocial genetic risk were all indepe
 
 <p align="center">
 <img src='/images/PRSfig.png' style="height: 350px; margin-right: 0px; margin-bottom: 0px; padding-top: 0px;">
-<p/>
+</p>
 
 Interestingly, each genetic risk score (PRSa and PRSc) showed the same genetic-environment interaction, despite each explaining separate portions of antisocial behavior. Genetic risk scores were not meaningfully correlated with one another likely due to one being derived from a primarily child sample (PRSc), while the other from a largely adult sample (PRSa). 
 
