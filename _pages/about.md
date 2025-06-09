@@ -49,8 +49,6 @@ Together this suggests that youth may respond to the same challenging environmen
 
 <sub> Acland, E. L., Pocuca, N., Paquin, S., Boivin, M., Ouellet-Morin, I., Andlauer, T. F. M., Gouin, J. P., Côté S. M., Tremblay R. E., Geoffroy, M. & Castellanos-Ryan, N. (2024). Polygenic risk and hostile environments: Links to stable and dynamic antisocial behaviors across adolescence. Development and Psychopathology, 1-13. [https://doi.org/10.1017/S095457942400004X](https://doi.org/10.1017/S095457942400004X) (Open access article). </sub>
 
----
-
 ## How is emotion recognition tied to cold-calculated vs hot-reactive aggression?
 
 In two independently collected samples of children, we found that more difficulty identifying expressions of fear, anger, and sadness in others was consistently related to using goal-focused (also known as cold-calculated) aggression. Fear and anger associations with goal-focused aggression were stronger in early (ages 4-6) and middle childhood (ages 8-9), respectively. Interestingly, we found that how they misrecognised angry expressions mattered. Goal-focused aggression was tied to thinking angry expressions looked emotionless (i.e., anger insensitivity), rather than mixing up anger for another emotion. ​
@@ -113,6 +111,7 @@ Emotion insensitivity (thinking an unhappy face is showing no emotion) appeared 
 <sub> Acland, E. L., Jambon, M., & Malti, T. (2021). Children's emotion recognition and aggression: A multi-cohort longitudinal study. Aggressive Behavior, 1– 13. [https://doi.org/10.1002/ab.21989](https://doi.org/10.1002/ab.21989). </sub>
 
 ---
+
 ## How is parasympathetic nervous system activity linked to prosociality in children?
 
 We found a goldilocks relation between children's ‘rest and digest' system (i.e., parasympathetic nervous system) and their prosociality (N = 300). Children with moderate levels of parasympathetic system activation had increased sympathy and prosocial behaviours (e.g., sharing). However, this was only the case for children in middle childhood, not early childhood. Parasympathetic system activation was indicated by children resting respiratory sinus arrhythmia (RSA).
