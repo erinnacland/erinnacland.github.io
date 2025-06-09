@@ -37,7 +37,7 @@ Harsh parenting, violence at school, and antisocial genetic risk were all indepe
 <p/>
 
 Interestingly, each genetic risk score (PRSa and PRSc) showed the same genetic-environment interaction, despite each explaining separate portions of antisocial behavior. Genetic risk scores were not meaningfully correlated with one another likely due to one being derived from a primarily child sample (PRSc), while the other from a largely adult sample (PRSa). 
-
+<br/>
 **IMPLICATIONS:** Harsher parenting was linked to elevated stable antisocial behaviors across adolescence. However, shifts in social aggression in late adolescence were partially explained by a consistent genetic-environment interaction (~8% of variance).
 
 Late adolescents considered more susceptible to antisociality may respond to harsh parenting by mirroring that emotional hostility when interacting with peers. Alternately, youth less susceptible to antisociality may respond to harsh parenting in the opposite way: reducing their social aggression (i.e., abstaining from emotional bullying, isolating others, damaging relationships). Perhaps those with lower genetic risk for antisociality are more socially sensitive individuals, who withdraw from all types of social interactions (good and bad) when they feel attacked.
