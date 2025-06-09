@@ -48,9 +48,9 @@ Together this suggests that youth may respond to the same challenging environmen
 
 <sub> Acland, E. L., Pocuca, N., Paquin, S., Boivin, M., Ouellet-Morin, I., Andlauer, T. F. M., Gouin, J. P., Côté S. M., Tremblay R. E., Geoffroy, M. & Castellanos-Ryan, N. (2024). Polygenic risk and hostile environments: Links to stable and dynamic antisocial behaviors across adolescence. Development and Psychopathology, 1-13. [https://doi.org/10.1017/S095457942400004X](https://doi.org/10.1017/S095457942400004X) (Open access article). </sub>  
 
-
+<br/>
 ## How is emotion recognition tied to cold-calculated vs hot-reactive aggression??  
-
+<br/>
 In two independently collected samples of children, we found that more difficulty identifying expressions of fear, anger, and sadness in others was consistently related to using goal-focused (also known as cold-calculated) aggression. Fear and anger associations with goal-focused aggression were stronger in early (ages 4-6) and middle childhood (ages 8-9), respectively. Interestingly, we found that how they misrecognised angry expressions mattered. Goal-focused aggression was tied to thinking angry expressions looked emotionless (i.e., anger insensitivity), rather than mixing up anger for another emotion. ​
 <br/><img src='/images/Emotion.png' style="height: 400px; margin-right: 20px; margin-bottom: 0px; margin-top: 10px;" align="left" > 
 
