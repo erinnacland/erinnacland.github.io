@@ -22,7 +22,6 @@ All youth showing either suicidality and/or aggression had parents that reported
 
 <sub> Acland, E.L., Pocuca, N., Chaput-Langlois, S., Hamaoui, J., Girard-Lapointe, J., & Côté, S.M., Castellanos-Ryan, N., Geoffroy, M.C. (Accepted). Aggression, suicidality, and emotion profiles in youth: Links to early life adversity. *Aggressive Behavior*. (Open access article). </sub>
 
----
 
 ## Are there youth who are especially impacted by environmental adversity? 
 
@@ -49,6 +48,7 @@ Together this suggests that youth may respond to the same challenging environmen
 
 <sub> Acland, E. L., Pocuca, N., Paquin, S., Boivin, M., Ouellet-Morin, I., Andlauer, T. F. M., Gouin, J. P., Côté S. M., Tremblay R. E., Geoffroy, M. & Castellanos-Ryan, N. (2024). Polygenic risk and hostile environments: Links to stable and dynamic antisocial behaviors across adolescence. Development and Psychopathology, 1-13. [https://doi.org/10.1017/S095457942400004X](https://doi.org/10.1017/S095457942400004X) (Open access article). </sub>
 
+
 ## How is emotion recognition tied to cold-calculated vs hot-reactive aggression?
 
 In two independently collected samples of children, we found that more difficulty identifying expressions of fear, anger, and sadness in others was consistently related to using goal-focused (also known as cold-calculated) aggression. Fear and anger associations with goal-focused aggression were stronger in early (ages 4-6) and middle childhood (ages 8-9), respectively. Interestingly, we found that how they misrecognised angry expressions mattered. Goal-focused aggression was tied to thinking angry expressions looked emotionless (i.e., anger insensitivity), rather than mixing up anger for another emotion. ​
@@ -64,7 +64,7 @@ Young children exhibiting hot-reactive aggression may be particularly sensitive 
 
 <sub>Acland, E., Peplak, J., Suri, A., & Malti, T. (2023). Emotion recognition links to reactive and proactive aggression across childhood: A multi-study design. Development and Psychopathology, 1-12. [https://doi.org/0.1017/S0954579423000342](https://doi.org/0.1017/S0954579423000342) (Open access article). The illustration and excepts of this summary were adapted from an article we wrote for The Conversation Canada.</sub>
 
----
+
 
 ## How is anger linked to violence and recidivism in youth? 
 
@@ -93,7 +93,7 @@ Lastly, anger may be especially tied to current violent behaviour in older adole
 
 <sub> Acland, E. L. & Cavanagh, C. (2022). Anger, violence, and recidivism in justice system involved youth. Justice Quarterly. [https://doi.org/10.1080/07418825.2022.2028882](https://doi.org/10.1080/07418825.2022.2028882). Illustrations and excerpts of this summary are from my article on this paper published in The Conversation Canada. </sub>
 
----
+
 ## Is emotion recognition uniquely linked to aggression in children?
 
 <img src='/images/helping2.png' style="height: 250px; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;" align="left" > 
@@ -110,7 +110,7 @@ Emotion insensitivity (thinking an unhappy face is showing no emotion) appeared 
 
 <sub> Acland, E. L., Jambon, M., & Malti, T. (2021). Children's emotion recognition and aggression: A multi-cohort longitudinal study. Aggressive Behavior, 1– 13. [https://doi.org/10.1002/ab.21989](https://doi.org/10.1002/ab.21989). </sub>
 
----
+
 
 ## How is parasympathetic nervous system activity linked to prosociality in children?
 
