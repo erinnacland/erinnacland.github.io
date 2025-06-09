@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## What does it look like when aggression and suicidality co-occurs in youth?
+## What does it look like when youth aggression and suicidality co-occurs?
 
 <img src='/images/Fig2.png' style="height: 450px; margin-left: 20px; margin-bottom: 0px; margin-top: 10px;" align="right" > ​​In a population-based birth cohort (N = 1637), I performed a profile analysis to identify how aggression, suicidality, and emotionality patterns present in adolescents (15/17 years of age). 
 
@@ -24,7 +24,7 @@ All youth showing either suicidality and/or aggression had parents that reported
 
 ---
 
-## Do genetics interact with environment to affect youth antisocial behavior? 
+## Are there youth who are especially impacted by environmental adversity? 
 
 In a longitudinal study (N = 721), we assessed how genetic risk for antisociality (via two polygenetic risk scores; PRSa,c) and hostile environments (school violence, harsh parenting) related to stable and unstable forms of antisocial behavior (nonaggressive conduct problems, physical aggression, social aggression) across adolescence (ages 13, 15, and 17 years).
 
@@ -50,6 +50,7 @@ Together this suggests that youth may respond to the same challenging environmen
 <sub> Acland, E. L., Pocuca, N., Paquin, S., Boivin, M., Ouellet-Morin, I., Andlauer, T. F. M., Gouin, J. P., Côté S. M., Tremblay R. E., Geoffroy, M. & Castellanos-Ryan, N. (2024). Polygenic risk and hostile environments: Links to stable and dynamic antisocial behaviors across adolescence. Development and Psychopathology, 1-13. [https://doi.org/10.1017/S095457942400004X](https://doi.org/10.1017/S095457942400004X) (Open access article). </sub>
 
 ---
+
 ## How is emotion recognition tied to cold-calculated vs hot-reactive aggression?
 
 In two independently collected samples of children, we found that more difficulty identifying expressions of fear, anger, and sadness in others was consistently related to using goal-focused (also known as cold-calculated) aggression. Fear and anger associations with goal-focused aggression were stronger in early (ages 4-6) and middle childhood (ages 8-9), respectively. Interestingly, we found that how they misrecognised angry expressions mattered. Goal-focused aggression was tied to thinking angry expressions looked emotionless (i.e., anger insensitivity), rather than mixing up anger for another emotion. ​
@@ -66,7 +67,9 @@ Young children exhibiting hot-reactive aggression may be particularly sensitive 
 <sub>Acland, E., Peplak, J., Suri, A., & Malti, T. (2023). Emotion recognition links to reactive and proactive aggression across childhood: A multi-study design. Development and Psychopathology, 1-12. [https://doi.org/0.1017/S0954579423000342](https://doi.org/0.1017/S0954579423000342) (Open access article). The illustration and excepts of this summary were adapted from an article we wrote for The Conversation Canada.</sub>
 
 ---
+
 ## How is anger linked to violence and recidivism in youth? 
+
 <img src='/images/Angerprofiles.png' style="height: 350px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;" align="right" > ​​In a court-provided sample of justice system involved youth (N = 548), self-reported anger over the last few months did not relate to whether youth reoffended within two years. This is important information for courts to know given that many juvenile risk assessments include items measuring youths’ anger/irritability (e.g., YLS/CMI). However, characteristics of anger (i.e., fuse vs. duration) were important for their (re)offending behaviour. Among youth with a history of violent offending, reporting prolonged anger was linked to twice the odds of reoffending within 2 years. Alternatively, among youth who had a history of only nonviolent offences, reporting a short fuse was associated with 2.2 times the odds of continuing to nonviolently offend.  Gender and age (11 to 18 years) were controlled and did not moderate these relations. ​​​
 
 Higher overall anger and/or short anger fuse was linked to current violence in justice-involved youth. Overall anger was especially tied to current violence in youth age ~14 and older, and prolonged anger was only related to current violence in youth age ~14.5 and older.
