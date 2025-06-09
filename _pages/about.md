@@ -22,7 +22,6 @@ All youth showing either suicidality and/or aggression had parents that reported
 
 <sub> Acland, E.L., Pocuca, N., Chaput-Langlois, S., Hamaoui, J., Girard-Lapointe, J., & Côté, S.M., Castellanos-Ryan, N., Geoffroy, M.C. (Accepted). Aggression, suicidality, and emotion profiles in youth: Links to early life adversity. *Aggressive Behavior*. (Open access article). </sub>
 
-
 ## Are there youth who are especially impacted by environmental adversity? 
 
 In a longitudinal study (N = 721), we assessed how genetic risk for antisociality (via two polygenetic risk scores; PRSa,c) and hostile environments (school violence, harsh parenting) related to stable and unstable forms of antisocial behavior (nonaggressive conduct problems, physical aggression, social aggression) across adolescence (ages 13, 15, and 17 years).
@@ -38,7 +37,6 @@ Harsh parenting, violence at school, and antisocial genetic risk were all indepe
 
 Interestingly, each genetic risk score (PRSa and PRSc) showed the same genetic-environment interaction, despite each explaining separate portions of antisocial behavior. Genetic risk scores were not meaningfully correlated with one another likely due to one being derived from a primarily child sample (PRSc), while the other from a largely adult sample (PRSa). 
 
-<br/>
 **IMPLICATIONS:** Harsher parenting was linked to elevated stable antisocial behaviors across adolescence. However, shifts in social aggression in late adolescence were partially explained by a consistent genetic-environment interaction (~8% of variance).
 
 Late adolescents considered more susceptible to antisociality may respond to harsh parenting by mirroring that emotional hostility when interacting with peers. Alternately, youth less susceptible to antisociality may respond to harsh parenting in the opposite way: reducing their social aggression (i.e., abstaining from emotional bullying, isolating others, damaging relationships). Perhaps those with lower genetic risk for antisociality are more socially sensitive individuals, who withdraw from all types of social interactions (good and bad) when they feel attacked.
@@ -48,10 +46,6 @@ These interactions may only emerge in late adolescence as youth overall become b
 Together this suggests that youth may respond to the same challenging environment in opposite ways depending on their susceptibility to that stressor. 
 
 <sub> Acland, E. L., Pocuca, N., Paquin, S., Boivin, M., Ouellet-Morin, I., Andlauer, T. F. M., Gouin, J. P., Côté S. M., Tremblay R. E., Geoffroy, M. & Castellanos-Ryan, N. (2024). Polygenic risk and hostile environments: Links to stable and dynamic antisocial behaviors across adolescence. Development and Psychopathology, 1-13. [https://doi.org/10.1017/S095457942400004X](https://doi.org/10.1017/S095457942400004X) (Open access article). </sub>  
-
-<br/>
-## How is emotion recognition tied to cold-calculated vs hot-reactive aggression??  
-<br/>
 
 ## How is emotion recognition tied to calculated vs reactive aggression?
 In two independently collected samples of children, we found that more difficulty identifying expressions of fear, anger, and sadness in others was consistently related to using goal-focused (also known as cold-calculated) aggression. Fear and anger associations with goal-focused aggression were stronger in early (ages 4-6) and middle childhood (ages 8-9), respectively. Interestingly, we found that how they misrecognised angry expressions mattered. Goal-focused aggression was tied to thinking angry expressions looked emotionless (i.e., anger insensitivity), rather than mixing up anger for another emotion. ​
