@@ -2,10 +2,10 @@
 main:
 
 
-  - title: "Reseach"
+  - title: "Research"
     url: /about/    
 
-    - title: "SciCom"
+  - title: "SciCom"
     url: /scicom/
 
  # - title: "Teaching"
