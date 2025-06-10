@@ -1,10 +1,12 @@
 # main links links
 main:
-  - title: "SciCom"
-    url: /scicom/
 
-  #- title: "Talks"
-  #  url: /talks/    
+
+  - title: "Reseach"
+    url: /about/    
+
+    - title: "SciCom"
+    url: /scicom/
 
  # - title: "Teaching"
   #  url: /teaching/    
