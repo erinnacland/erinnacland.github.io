@@ -8,8 +8,7 @@ redirect_from:
 ---
 ## What does it look like when youth aggression and suicidality co-occurs?
 
-<img src='/images/Fig2.png' style="height: 450px; margin-left: 20px; margin-bottom: 0px; margin-top: 10px;" align="right" > 
-​​In a population-based birth cohort (N = 1637), I performed a profile analysis to identify how aggression, suicidality, and emotionality patterns present in adolescents (15/17 years of age). 
+<img src='/images/Fig2.png' style="height: 450px; margin-left: 20px; margin-bottom: 0px; margin-top: 10px;" align="right"> ​​In a population-based birth cohort (N = 1637), I performed a profile analysis to identify how aggression, suicidality, and emotionality patterns present in adolescents (15/17 years of age). 
 
 Most youth (~80%) showed little to no harm towards others or themselves. Of the youth showing harm, 95% of them appear to primarily harm either themselves OR others, not both. All youth showing harm had on average higher negative emotionality, but only those showing heightened aggression had higher callousness. Whether suicidality co-occurs with aggression seemed to depend on the severity of the youth's negative emotionality.
 
