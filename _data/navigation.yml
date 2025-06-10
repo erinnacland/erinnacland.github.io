@@ -1,7 +1,7 @@
 # main links links
 main:
- # - title: "Publications"
- #   url: /publications/
+  - title: "SciCom"
+    url: /scicom/
 
   #- title: "Talks"
   #  url: /talks/    
