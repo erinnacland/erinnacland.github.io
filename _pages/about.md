@@ -107,9 +107,7 @@ Emotion insensitivity (thinking an unhappy face is showing no emotion) appeared 
 
 <sub> Acland, E. L., Jambon, M., & Malti, T. (2021). Children's emotion recognition and aggression: A multi-cohort longitudinal study. Aggressive Behavior, 1– 13. [https://doi.org/10.1002/ab.21989](https://doi.org/10.1002/ab.21989). </sub>
 
-
-
-## How is parasympathetic nervous system activity linked to prosociality in children?
+## How is parasympathetic system activity linked to prosociality in children?
 
 We found a goldilocks relation between children's ‘rest and digest' system (i.e., parasympathetic nervous system) and their prosociality (N = 300). Children with moderate levels of parasympathetic system activation had increased sympathy and prosocial behaviours (e.g., sharing). However, this was only the case for children in middle childhood, not early childhood. Parasympathetic system activation was indicated by children resting respiratory sinus arrhythmia (RSA).
 
