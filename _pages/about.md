@@ -20,7 +20,7 @@ All youth showing either suicidality and/or aggression had parents that reported
   <img src="/images/harmemotion.png" style="height: 400px; margin-right: 20px; margin-bottom: 0px; padding-top: 0px;">
 </p>
 
-<sub> Acland, E.L., Pocuca, N., Chaput-Langlois, S., Hamaoui, J., Girard-Lapointe, J., & Côté, S.M., Castellanos-Ryan, N., Geoffroy, M.C. (Accepted). Aggression, suicidality, and emotion profiles in youth: Links to early life adversity. *Aggressive Behavior*. (Open access article). </sub>
+<sub> Acland, E.L., Pocuca, N., Chaput-Langlois, S., Hamaoui, J., Girard-Lapointe, J., & Côté, S.M., Castellanos-Ryan, N., Geoffroy, M.C. (Accepted). Aggression, suicidality, and emotion profiles in youth: Links to early life adversity. *Aggressive Behavior*. [https://doi.org/10.1002/ab.70038](https://doi.org/10.1002/ab.70038) (Open access article). </sub>
 
 ## Are there youth who are especially impacted by environmental adversity? 
 
