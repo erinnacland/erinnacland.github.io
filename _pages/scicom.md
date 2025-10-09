@@ -10,7 +10,7 @@ author_profile: true
 </p>
 
 <p align="center">
-  Writer, producer, animator, and narrator. Video submission for the CIHR 2025 IHDCYH Talks competition.
+  Writer, animator, and narrator. Video submission for the CIHR 2025 IHDCYH Talks competition.
   <a href="https://www.youtube.com/watch?v=MZIixXxBr3w">Link to video</a>
 </p>
 
