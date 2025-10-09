@@ -6,6 +6,17 @@ author_profile: true
 ---
 
 <p align="center">
+  <img src="/images/GraphicThumbnail_Acland2025.png" style="width: 700px;  margin-bottom: 0px; padding-top: 0px;">
+</p>
+
+<p align="center">
+  Writer, producer, animator, and narrator. Video submission for the CIHR 2025 IHDCYH Talks competition.
+  <a href="https://www.youtube.com/watch?v=MZIixXxBr3w">Link to video</a>
+</p>
+
+---
+
+<p align="center">
   <img src="/images/ConvER.png" style="width: 700px;  margin-bottom: 0px; padding-top: 0px;">
 </p>
 
